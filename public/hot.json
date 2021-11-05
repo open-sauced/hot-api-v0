@@ -1,0 +1,5002 @@
+[
+  {
+    "repo_name": "open-sauced/open-sauced",
+    "total_stars": 22,
+    "avg_recency_score": 11.3181818181818
+  },
+  {
+    "repo_name": "supabase/supabase",
+    "total_stars": 12,
+    "avg_recency_score": 7
+  },
+  {
+    "repo_name": "lydiahallie/javascript-questions",
+    "total_stars": 11,
+    "avg_recency_score": 18
+  },
+  {
+    "repo_name": "MunGell/awesome-for-beginners",
+    "total_stars": 10,
+    "avg_recency_score": 17.5
+  },
+  {
+    "repo_name": "jwasham/coding-interview-university",
+    "total_stars": 10,
+    "avg_recency_score": 12.8
+  },
+  {
+    "repo_name": "practical-tutorials/project-based-learning",
+    "total_stars": 10,
+    "avg_recency_score": 14.1
+  },
+  {
+    "repo_name": "snowpackjs/astro",
+    "total_stars": 10,
+    "avg_recency_score": 12.6
+  },
+  {
+    "repo_name": "trekhleb/javascript-algorithms",
+    "total_stars": 9,
+    "avg_recency_score": 13.5555555555556
+  },
+  {
+    "repo_name": "questdb/questdb-open-sauced",
+    "total_stars": 8,
+    "avg_recency_score": 2.125
+  },
+  {
+    "repo_name": "kjaymiller/hbcu-list",
+    "total_stars": 8,
+    "avg_recency_score": 13.375
+  },
+  {
+    "repo_name": "typescript-cheatsheets/react",
+    "total_stars": 8,
+    "avg_recency_score": 14.125
+  },
+  {
+    "repo_name": "dabit3/supabase-next.js",
+    "total_stars": 8,
+    "avg_recency_score": 9
+  },
+  {
+    "repo_name": "public-apis/public-apis",
+    "total_stars": 8,
+    "avg_recency_score": 10
+  },
+  {
+    "repo_name": "open-sauced/semantic-release-conventional-config",
+    "total_stars": 8,
+    "avg_recency_score": 0.25
+  },
+  {
+    "repo_name": "zernonia/supabase-realtime-nextconf-clone",
+    "total_stars": 8,
+    "avg_recency_score": 5.875
+  },
+  {
+    "repo_name": "freeCodeCamp/freeCodeCamp",
+    "total_stars": 7,
+    "avg_recency_score": 12.7142857142857
+  },
+  {
+    "repo_name": "vitejs/vite",
+    "total_stars": 7,
+    "avg_recency_score": 10.1428571428571
+  },
+  {
+    "repo_name": "vercel/next.js",
+    "total_stars": 7,
+    "avg_recency_score": 15.4285714285714
+  },
+  {
+    "repo_name": "florinpop17/app-ideas",
+    "total_stars": 7,
+    "avg_recency_score": 10.2857142857143
+  },
+  {
+    "repo_name": "getify/You-Dont-Know-JS",
+    "total_stars": 7,
+    "avg_recency_score": 8.42857142857143
+  },
+  {
+    "repo_name": "tonsky/FiraCode",
+    "total_stars": 6,
+    "avg_recency_score": 10.8333333333333
+  },
+  {
+    "repo_name": "vuejs/vue",
+    "total_stars": 6,
+    "avg_recency_score": 9.16666666666667
+  },
+  {
+    "repo_name": "danistefanovic/build-your-own-x",
+    "total_stars": 6,
+    "avg_recency_score": 13.3333333333333
+  },
+  {
+    "repo_name": "ryanmcdermott/clean-code-javascript",
+    "total_stars": 6,
+    "avg_recency_score": 13.5
+  },
+  {
+    "repo_name": "11ty/eleventy",
+    "total_stars": 6,
+    "avg_recency_score": 6.66666666666667
+  },
+  {
+    "repo_name": "reactwg/react-18",
+    "total_stars": 6,
+    "avg_recency_score": 15.1666666666667
+  },
+  {
+    "repo_name": "goldbergyoni/nodebestpractices",
+    "total_stars": 6,
+    "avg_recency_score": 22.5
+  },
+  {
+    "repo_name": "microsoft/TypeScript",
+    "total_stars": 6,
+    "avg_recency_score": 16.1666666666667
+  },
+  {
+    "repo_name": "Team-TAU/tau",
+    "total_stars": 6,
+    "avg_recency_score": 8.33333333333333
+  },
+  {
+    "repo_name": "redwoodjs/redwood",
+    "total_stars": 6,
+    "avg_recency_score": 13.8333333333333
+  },
+  {
+    "repo_name": "anuraghazra/github-readme-stats",
+    "total_stars": 6,
+    "avg_recency_score": 10
+  },
+  {
+    "repo_name": "vercel/hyper",
+    "total_stars": 6,
+    "avg_recency_score": 7.83333333333333
+  },
+  {
+    "repo_name": "sindresorhus/awesome",
+    "total_stars": 6,
+    "avg_recency_score": 19.8333333333333
+  },
+  {
+    "repo_name": "leonardomso/33-js-concepts",
+    "total_stars": 6,
+    "avg_recency_score": 11.1666666666667
+  },
+  {
+    "repo_name": "mscoutermarsh/mscoutermarsh",
+    "total_stars": 6,
+    "avg_recency_score": 16
+  },
+  {
+    "repo_name": "hughrawlinson/battlesnake",
+    "total_stars": 5,
+    "avg_recency_score": 10
+  },
+  {
+    "repo_name": "kdn251/interviews",
+    "total_stars": 5,
+    "avg_recency_score": 13.4
+  },
+  {
+    "repo_name": "swc-project/swc",
+    "total_stars": 5,
+    "avg_recency_score": 12
+  },
+  {
+    "repo_name": "nocodb/nocodb",
+    "total_stars": 5,
+    "avg_recency_score": 8.6
+  },
+  {
+    "repo_name": "dayhaysoos/use-shopping-cart",
+    "total_stars": 5,
+    "avg_recency_score": 15.4
+  },
+  {
+    "repo_name": "storybookjs/storybook",
+    "total_stars": 5,
+    "avg_recency_score": 19.4
+  },
+  {
+    "repo_name": "microsoft/playwright",
+    "total_stars": 5,
+    "avg_recency_score": 6.4
+  },
+  {
+    "repo_name": "snowpackjs/snowpack",
+    "total_stars": 5,
+    "avg_recency_score": 13.8
+  },
+  {
+    "repo_name": "nuxt/nuxt.js",
+    "total_stars": 5,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "NvChad/NvChad",
+    "total_stars": 5,
+    "avg_recency_score": 13.4
+  },
+  {
+    "repo_name": "DopplerHQ/awesome-interview-questions",
+    "total_stars": 5,
+    "avg_recency_score": 12.6
+  },
+  {
+    "repo_name": "BattlesnakeOfficial/starter-snake-javascript",
+    "total_stars": 5,
+    "avg_recency_score": 9.4
+  },
+  {
+    "repo_name": "resume/resume.github.com",
+    "total_stars": 5,
+    "avg_recency_score": 19.8
+  },
+  {
+    "repo_name": "kamranahmedse/developer-roadmap",
+    "total_stars": 5,
+    "avg_recency_score": 6.6
+  },
+  {
+    "repo_name": "bdougie/awesome-black-developers",
+    "total_stars": 4,
+    "avg_recency_score": 7.5
+  },
+  {
+    "repo_name": "Mariatta/github-app-tutorial",
+    "total_stars": 4,
+    "avg_recency_score": 19
+  },
+  {
+    "repo_name": "subeeshvasu/Awesome-Deblurring",
+    "total_stars": 4,
+    "avg_recency_score": 13
+  },
+  {
+    "repo_name": "kkemple/theworst.dev",
+    "total_stars": 4,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "mrcartoonster/website",
+    "total_stars": 4,
+    "avg_recency_score": 28
+  },
+  {
+    "repo_name": "oscafrica/open-source-challenge-2021",
+    "total_stars": 4,
+    "avg_recency_score": 15
+  },
+  {
+    "repo_name": "cassiozen/useStateMachine",
+    "total_stars": 4,
+    "avg_recency_score": 27
+  },
+  {
+    "repo_name": "thedaviddias/Front-End-Checklist",
+    "total_stars": 4,
+    "avg_recency_score": 15
+  },
+  {
+    "repo_name": "Renovamen/playground-macos",
+    "total_stars": 4,
+    "avg_recency_score": 19.75
+  },
+  {
+    "repo_name": "Schniz/fnm",
+    "total_stars": 4,
+    "avg_recency_score": 26
+  },
+  {
+    "repo_name": "slidevjs/slidev",
+    "total_stars": 4,
+    "avg_recency_score": 9
+  },
+  {
+    "repo_name": "yangshun/tech-interview-handbook",
+    "total_stars": 4,
+    "avg_recency_score": 9.5
+  },
+  {
+    "repo_name": "dotansimha/envelop",
+    "total_stars": 4,
+    "avg_recency_score": 23
+  },
+  {
+    "repo_name": "sveltejs/kit",
+    "total_stars": 4,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "denoland/deno",
+    "total_stars": 4,
+    "avg_recency_score": 15.5
+  },
+  {
+    "repo_name": "sveltejs/svelte",
+    "total_stars": 4,
+    "avg_recency_score": 10.5
+  },
+  {
+    "repo_name": "open-sauced/beybot",
+    "total_stars": 4,
+    "avg_recency_score": 17.5
+  },
+  {
+    "repo_name": "tenacityteam/tenacity",
+    "total_stars": 4,
+    "avg_recency_score": 9.75
+  },
+  {
+    "repo_name": "mswjs/msw",
+    "total_stars": 4,
+    "avg_recency_score": 2
+  },
+  {
+    "repo_name": "papers-we-love/papers-we-love",
+    "total_stars": 4,
+    "avg_recency_score": 3.5
+  },
+  {
+    "repo_name": "dabit3/foundation-subgraph",
+    "total_stars": 4,
+    "avg_recency_score": 25
+  },
+  {
+    "repo_name": "rome/tools",
+    "total_stars": 4,
+    "avg_recency_score": 19
+  },
+  {
+    "repo_name": "jossef/action-set-json-field",
+    "total_stars": 4,
+    "avg_recency_score": 16
+  },
+  {
+    "repo_name": "supabase/supabase-js",
+    "total_stars": 4,
+    "avg_recency_score": 0
+  },
+  {
+    "repo_name": "doczjs/docz",
+    "total_stars": 4,
+    "avg_recency_score": 14
+  },
+  {
+    "repo_name": "donnemartin/system-design-primer",
+    "total_stars": 4,
+    "avg_recency_score": 9.5
+  },
+  {
+    "repo_name": "microsoft/vscode",
+    "total_stars": 4,
+    "avg_recency_score": 14.75
+  },
+  {
+    "repo_name": "wesbos/JavaScript30",
+    "total_stars": 4,
+    "avg_recency_score": 9.25
+  },
+  {
+    "repo_name": "kkemple/apollo-graphql-stream-scenes",
+    "total_stars": 4,
+    "avg_recency_score": 12
+  },
+  {
+    "repo_name": "altair-graphql/altair",
+    "total_stars": 4,
+    "avg_recency_score": 9
+  },
+  {
+    "repo_name": "muxinc/stream.new",
+    "total_stars": 4,
+    "avg_recency_score": 3
+  },
+  {
+    "repo_name": "octokit/rest.js",
+    "total_stars": 4,
+    "avg_recency_score": 8
+  },
+  {
+    "repo_name": "firstcontributions/first-contributions",
+    "total_stars": 4,
+    "avg_recency_score": 7.5
+  },
+  {
+    "repo_name": "cloudflare/doom-wasm",
+    "total_stars": 4,
+    "avg_recency_score": 7
+  },
+  {
+    "repo_name": "gr2m/boop-gregors-nose-test",
+    "total_stars": 4,
+    "avg_recency_score": 29
+  },
+  {
+    "repo_name": "jlevy/the-art-of-command-line",
+    "total_stars": 4,
+    "avg_recency_score": 16.5
+  },
+  {
+    "repo_name": "RamseyInHouse/feedback-component",
+    "total_stars": 4,
+    "avg_recency_score": 24
+  },
+  {
+    "repo_name": "ad-m/github-push-action",
+    "total_stars": 4,
+    "avg_recency_score": 17
+  },
+  {
+    "repo_name": "30-seconds/30-seconds-of-code",
+    "total_stars": 4,
+    "avg_recency_score": 7
+  },
+  {
+    "repo_name": "Marak/faker.js",
+    "total_stars": 3,
+    "avg_recency_score": 16.3333333333333
+  },
+  {
+    "repo_name": "tostercx/GTAO_Booster_PoC",
+    "total_stars": 3,
+    "avg_recency_score": 20.3333333333333
+  },
+  {
+    "repo_name": "durgeshsamariya/awesome-github-profile-readme-templates",
+    "total_stars": 3,
+    "avg_recency_score": 3.66666666666667
+  },
+  {
+    "repo_name": "bvaughn/react-error-boundary",
+    "total_stars": 3,
+    "avg_recency_score": 7.33333333333333
+  },
+  {
+    "repo_name": "freeCodeCamp/how-to-contribute-to-open-source",
+    "total_stars": 3,
+    "avg_recency_score": 12.3333333333333
+  },
+  {
+    "repo_name": "tschaub/gh-pages",
+    "total_stars": 3,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "kelseyhightower/nocode",
+    "total_stars": 3,
+    "avg_recency_score": 24.6666666666667
+  },
+  {
+    "repo_name": "strapi/strapi",
+    "total_stars": 3,
+    "avg_recency_score": 12.3333333333333
+  },
+  {
+    "repo_name": "gatsbyjs/gatsby",
+    "total_stars": 3,
+    "avg_recency_score": 23.6666666666667
+  },
+  {
+    "repo_name": "typicode/husky",
+    "total_stars": 3,
+    "avg_recency_score": 24.6666666666667
+  },
+  {
+    "repo_name": "github/gitignore",
+    "total_stars": 3,
+    "avg_recency_score": 16
+  },
+  {
+    "repo_name": "open-sauced/docs.opensauced.pizza",
+    "total_stars": 3,
+    "avg_recency_score": 4.33333333333333
+  },
+  {
+    "repo_name": "sveltejs/sapper",
+    "total_stars": 3,
+    "avg_recency_score": 14.6666666666667
+  },
+  {
+    "repo_name": "bitcoin/bitcoin",
+    "total_stars": 3,
+    "avg_recency_score": 12.3333333333333
+  },
+  {
+    "repo_name": "quilljs/quill",
+    "total_stars": 3,
+    "avg_recency_score": 16.3333333333333
+  },
+  {
+    "repo_name": "photoprism/photoprism",
+    "total_stars": 3,
+    "avg_recency_score": 13.6666666666667
+  },
+  {
+    "repo_name": "nektos/act",
+    "total_stars": 3,
+    "avg_recency_score": 21.6666666666667
+  },
+  {
+    "repo_name": "codeceptjs/CodeceptJS",
+    "total_stars": 3,
+    "avg_recency_score": 13.3333333333333
+  },
+  {
+    "repo_name": "ramda/ramda",
+    "total_stars": 3,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "isaachinman/next-i18next",
+    "total_stars": 3,
+    "avg_recency_score": 2.33333333333333
+  },
+  {
+    "repo_name": "ossu/computer-science",
+    "total_stars": 3,
+    "avg_recency_score": 14.3333333333333
+  },
+  {
+    "repo_name": "cassidoo/todometer",
+    "total_stars": 3,
+    "avg_recency_score": 23.6666666666667
+  },
+  {
+    "repo_name": "backstage/backstage",
+    "total_stars": 3,
+    "avg_recency_score": 9
+  },
+  {
+    "repo_name": "tesseract-ocr/tesseract",
+    "total_stars": 3,
+    "avg_recency_score": 14
+  },
+  {
+    "repo_name": "Schrodinger-Hat/ImageGoNord",
+    "total_stars": 3,
+    "avg_recency_score": 10.3333333333333
+  },
+  {
+    "repo_name": "golang-standards/project-layout",
+    "total_stars": 3,
+    "avg_recency_score": 11.3333333333333
+  },
+  {
+    "repo_name": "flutter/flutter",
+    "total_stars": 3,
+    "avg_recency_score": 16.6666666666667
+  },
+  {
+    "repo_name": "google/zx",
+    "total_stars": 3,
+    "avg_recency_score": 6
+  },
+  {
+    "repo_name": "expo/expo",
+    "total_stars": 3,
+    "avg_recency_score": 12.6666666666667
+  },
+  {
+    "repo_name": "facebook/react",
+    "total_stars": 3,
+    "avg_recency_score": 14.3333333333333
+  },
+  {
+    "repo_name": "dabit3/full-stack-ethereum",
+    "total_stars": 3,
+    "avg_recency_score": 2.33333333333333
+  },
+  {
+    "repo_name": "remy/nodemon",
+    "total_stars": 3,
+    "avg_recency_score": 2.66666666666667
+  },
+  {
+    "repo_name": "tmrts/go-patterns",
+    "total_stars": 3,
+    "avg_recency_score": 10.3333333333333
+  },
+  {
+    "repo_name": "orbit-love/orbit-model",
+    "total_stars": 3,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "EbookFoundation/free-programming-books",
+    "total_stars": 3,
+    "avg_recency_score": 18
+  },
+  {
+    "repo_name": "avelino/awesome-go",
+    "total_stars": 3,
+    "avg_recency_score": 15.3333333333333
+  },
+  {
+    "repo_name": "shelljs/shelljs",
+    "total_stars": 3,
+    "avg_recency_score": 17
+  },
+  {
+    "repo_name": "chalk/chalk",
+    "total_stars": 3,
+    "avg_recency_score": 11.6666666666667
+  },
+  {
+    "repo_name": "fastify/fastify",
+    "total_stars": 3,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "go-kit/kit",
+    "total_stars": 3,
+    "avg_recency_score": 12.6666666666667
+  },
+  {
+    "repo_name": "facebook/react-native",
+    "total_stars": 3,
+    "avg_recency_score": 21.3333333333333
+  },
+  {
+    "repo_name": "InnerSourceCommons/InnerSourcePatterns",
+    "total_stars": 3,
+    "avg_recency_score": 21
+  },
+  {
+    "repo_name": "microsoft/ML-For-Beginners",
+    "total_stars": 3,
+    "avg_recency_score": 14.6666666666667
+  },
+  {
+    "repo_name": "airbnb/javascript",
+    "total_stars": 3,
+    "avg_recency_score": 5.33333333333333
+  },
+  {
+    "repo_name": "ant-design/ant-design",
+    "total_stars": 3,
+    "avg_recency_score": 13
+  },
+  {
+    "repo_name": "dipakkr/A-to-Z-Resources-for-Students",
+    "total_stars": 3,
+    "avg_recency_score": 21.6666666666667
+  },
+  {
+    "repo_name": "Asabeneh/30-Days-Of-JavaScript",
+    "total_stars": 3,
+    "avg_recency_score": 5.33333333333333
+  },
+  {
+    "repo_name": "calendso/calendso",
+    "total_stars": 3,
+    "avg_recency_score": 13.3333333333333
+  },
+  {
+    "repo_name": "mirumee/saleor",
+    "total_stars": 3,
+    "avg_recency_score": 6
+  },
+  {
+    "repo_name": "benawad/dogehouse",
+    "total_stars": 3,
+    "avg_recency_score": 14.6666666666667
+  },
+  {
+    "repo_name": "fireship-io/3.1-firebase-basics",
+    "total_stars": 3,
+    "avg_recency_score": 24.3333333333333
+  },
+  {
+    "repo_name": "starship/starship",
+    "total_stars": 3,
+    "avg_recency_score": 26
+  },
+  {
+    "repo_name": "bdougie/git-twitch",
+    "total_stars": 3,
+    "avg_recency_score": 13
+  },
+  {
+    "repo_name": "withspectrum/spectrum",
+    "total_stars": 3,
+    "avg_recency_score": 5
+  },
+  {
+    "repo_name": "prisma/prisma",
+    "total_stars": 3,
+    "avg_recency_score": 13.6666666666667
+  },
+  {
+    "repo_name": "brillout/awesome-react-components",
+    "total_stars": 3,
+    "avg_recency_score": 10
+  },
+  {
+    "repo_name": "github-craftwork/start-here",
+    "total_stars": 3,
+    "avg_recency_score": 6.33333333333333
+  },
+  {
+    "repo_name": "chartjs/Chart.js",
+    "total_stars": 3,
+    "avg_recency_score": 7.33333333333333
+  },
+  {
+    "repo_name": "netlify/netlify-cms",
+    "total_stars": 3,
+    "avg_recency_score": 11.6666666666667
+  },
+  {
+    "repo_name": "vmbrasseur/Public_Speaking",
+    "total_stars": 3,
+    "avg_recency_score": 15.3333333333333
+  },
+  {
+    "repo_name": "tc39/proposals",
+    "total_stars": 3,
+    "avg_recency_score": 20
+  },
+  {
+    "repo_name": "responsively-org/responsively-app",
+    "total_stars": 3,
+    "avg_recency_score": 2.33333333333333
+  },
+  {
+    "repo_name": "peter-murray/github-security-report-action",
+    "total_stars": 2,
+    "avg_recency_score": 8
+  },
+  {
+    "repo_name": "dylanaraps/pfetch",
+    "total_stars": 2,
+    "avg_recency_score": 8
+  },
+  {
+    "repo_name": "LeCoupa/awesome-cheatsheets",
+    "total_stars": 2,
+    "avg_recency_score": 24
+  },
+  {
+    "repo_name": "github/github-artifact-exporter",
+    "total_stars": 2,
+    "avg_recency_score": 0
+  },
+  {
+    "repo_name": "shikijs/twoslash",
+    "total_stars": 2,
+    "avg_recency_score": 0.5
+  },
+  {
+    "repo_name": "EmielH/hallo-hugo",
+    "total_stars": 2,
+    "avg_recency_score": 1
+  },
+  {
+    "repo_name": "delta-craft/delta-craft-portal",
+    "total_stars": 2,
+    "avg_recency_score": 17
+  },
+  {
+    "repo_name": "brandonweiss/charge",
+    "total_stars": 2,
+    "avg_recency_score": 21
+  },
+  {
+    "repo_name": "SAP/project-portal-for-innersource",
+    "total_stars": 2,
+    "avg_recency_score": 18
+  },
+  {
+    "repo_name": "tannerlinsley/react-query",
+    "total_stars": 2,
+    "avg_recency_score": 15
+  },
+  {
+    "repo_name": "dart-lang/source_span",
+    "total_stars": 2,
+    "avg_recency_score": 18
+  },
+  {
+    "repo_name": "grishka/Houseclub",
+    "total_stars": 2,
+    "avg_recency_score": 24
+  },
+  {
+    "repo_name": "montagejs/collections",
+    "total_stars": 2,
+    "avg_recency_score": 14
+  },
+  {
+    "repo_name": "laurent22/joplin",
+    "total_stars": 2,
+    "avg_recency_score": 10.5
+  },
+  {
+    "repo_name": "diegocbarboza/red-dead-dialog",
+    "total_stars": 2,
+    "avg_recency_score": 27
+  },
+  {
+    "repo_name": "drwpow/openapi-typescript",
+    "total_stars": 2,
+    "avg_recency_score": 15
+  },
+  {
+    "repo_name": "brutella/hc",
+    "total_stars": 2,
+    "avg_recency_score": 15
+  },
+  {
+    "repo_name": "moesaid/cleopatra",
+    "total_stars": 2,
+    "avg_recency_score": 14
+  },
+  {
+    "repo_name": "jborean93/smbprotocol",
+    "total_stars": 2,
+    "avg_recency_score": 2
+  },
+  {
+    "repo_name": "timothycrosley/streamdeck-ui",
+    "total_stars": 2,
+    "avg_recency_score": 25
+  },
+  {
+    "repo_name": "open-sauced/swag",
+    "total_stars": 2,
+    "avg_recency_score": 28
+  },
+  {
+    "repo_name": "ForrestKnight/open-source-cs",
+    "total_stars": 2,
+    "avg_recency_score": 22
+  },
+  {
+    "repo_name": "tc39/ecma262",
+    "total_stars": 2,
+    "avg_recency_score": 19.5
+  },
+  {
+    "repo_name": "cruip/tailwind-dashboard-template",
+    "total_stars": 2,
+    "avg_recency_score": 12
+  },
+  {
+    "repo_name": "wildanalifr/belajar-javascript",
+    "total_stars": 2,
+    "avg_recency_score": 2
+  },
+  {
+    "repo_name": "bernaferrari/CashBalancer",
+    "total_stars": 2,
+    "avg_recency_score": 0
+  },
+  {
+    "repo_name": "rcoh/angle-grinder",
+    "total_stars": 2,
+    "avg_recency_score": 4
+  },
+  {
+    "repo_name": "Dhaiwat10/zenquotes",
+    "total_stars": 2,
+    "avg_recency_score": 21
+  },
+  {
+    "repo_name": "joke2k/faker",
+    "total_stars": 2,
+    "avg_recency_score": 17.5
+  },
+  {
+    "repo_name": "solidjs/solid",
+    "total_stars": 2,
+    "avg_recency_score": 16
+  },
+  {
+    "repo_name": "tailwindadmin/admin",
+    "total_stars": 2,
+    "avg_recency_score": 1
+  },
+  {
+    "repo_name": "withfig/autocomplete",
+    "total_stars": 2,
+    "avg_recency_score": 7
+  },
+  {
+    "repo_name": "PaystackHQ/nigerialogos",
+    "total_stars": 2,
+    "avg_recency_score": 20
+  },
+  {
+    "repo_name": "axios/axios",
+    "total_stars": 2,
+    "avg_recency_score": 18
+  },
+  {
+    "repo_name": "aaronfrost/youtubetv-adblocker",
+    "total_stars": 2,
+    "avg_recency_score": 28
+  },
+  {
+    "repo_name": "delta-craft/delta-craft-teams-plugin",
+    "total_stars": 2,
+    "avg_recency_score": 25
+  },
+  {
+    "repo_name": "tauri-apps/tauri",
+    "total_stars": 2,
+    "avg_recency_score": 18
+  },
+  {
+    "repo_name": "springload/react-accessible-headings",
+    "total_stars": 2,
+    "avg_recency_score": 3
+  },
+  {
+    "repo_name": "dmitryvinn/awesome-dev-advocacy",
+    "total_stars": 2,
+    "avg_recency_score": 14
+  },
+  {
+    "repo_name": "Greenwolf/social_mapper",
+    "total_stars": 2,
+    "avg_recency_score": 23
+  },
+  {
+    "repo_name": "uraimo/run-on-arch-action",
+    "total_stars": 2,
+    "avg_recency_score": 0
+  },
+  {
+    "repo_name": "DevHedronYT/c_std_lib",
+    "total_stars": 2,
+    "avg_recency_score": 4
+  },
+  {
+    "repo_name": "VSCodeVim/Vim",
+    "total_stars": 2,
+    "avg_recency_score": 14.5
+  },
+  {
+    "repo_name": "rwishavg/COVID-19-and-India",
+    "total_stars": 2,
+    "avg_recency_score": 17
+  },
+  {
+    "repo_name": "Dhaiwat10/react-agora",
+    "total_stars": 2,
+    "avg_recency_score": 10
+  },
+  {
+    "repo_name": "vicky002/AlgoWiki",
+    "total_stars": 2,
+    "avg_recency_score": 15
+  },
+  {
+    "repo_name": "rcbxd/node-cpu-intensive-tutorial",
+    "total_stars": 2,
+    "avg_recency_score": 27
+  },
+  {
+    "repo_name": "lnbook/lnbook",
+    "total_stars": 2,
+    "avg_recency_score": 19
+  },
+  {
+    "repo_name": "Camsbury/coderbyte",
+    "total_stars": 2,
+    "avg_recency_score": 5
+  },
+  {
+    "repo_name": "pmndrs/react-three-fiber",
+    "total_stars": 2,
+    "avg_recency_score": 4.5
+  },
+  {
+    "repo_name": "ornicar/lila",
+    "total_stars": 2,
+    "avg_recency_score": 17
+  },
+  {
+    "repo_name": "css-modules/css-modules",
+    "total_stars": 2,
+    "avg_recency_score": 10
+  },
+  {
+    "repo_name": "aspittel/cfps",
+    "total_stars": 2,
+    "avg_recency_score": 9
+  },
+  {
+    "repo_name": "dart-lang/json_rpc_2",
+    "total_stars": 2,
+    "avg_recency_score": 22
+  },
+  {
+    "repo_name": "eulerrapp/nx-python",
+    "total_stars": 2,
+    "avg_recency_score": 22
+  },
+  {
+    "repo_name": "doublevcodes/inside-the-box",
+    "total_stars": 2,
+    "avg_recency_score": 14
+  },
+  {
+    "repo_name": "true-myth/true-myth",
+    "total_stars": 2,
+    "avg_recency_score": 5
+  },
+  {
+    "repo_name": "designcourse/threejs-webpack-starter",
+    "total_stars": 2,
+    "avg_recency_score": 22
+  },
+  {
+    "repo_name": "sagars007/Proton-UI-connected-rounded-tabs",
+    "total_stars": 2,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "nwjs/nw.js",
+    "total_stars": 2,
+    "avg_recency_score": 13.5
+  },
+  {
+    "repo_name": "Dhaiwat10/ropsten-faucet",
+    "total_stars": 2,
+    "avg_recency_score": 19
+  },
+  {
+    "repo_name": "WingCode/QuFlapPyBird",
+    "total_stars": 2,
+    "avg_recency_score": 21
+  },
+  {
+    "repo_name": "joeyism/py-edgar",
+    "total_stars": 2,
+    "avg_recency_score": 15
+  },
+  {
+    "repo_name": "timlrx/tailwind-nextjs-starter-blog",
+    "total_stars": 2,
+    "avg_recency_score": 3
+  },
+  {
+    "repo_name": "twintproject/twint",
+    "total_stars": 2,
+    "avg_recency_score": 18
+  },
+  {
+    "repo_name": "Tobijudah/tip-calculator",
+    "total_stars": 2,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "tudorconstantin/knests",
+    "total_stars": 2,
+    "avg_recency_score": 8
+  },
+  {
+    "repo_name": "ManimCommunity/manim",
+    "total_stars": 2,
+    "avg_recency_score": 12
+  },
+  {
+    "repo_name": "saadeghi/daisyui",
+    "total_stars": 2,
+    "avg_recency_score": 13.5
+  },
+  {
+    "repo_name": "e-ther-inc/beta.e-ther-inc.com",
+    "total_stars": 2,
+    "avg_recency_score": 0
+  },
+  {
+    "repo_name": "digitallyinduced/ihp",
+    "total_stars": 2,
+    "avg_recency_score": 8.5
+  },
+  {
+    "repo_name": "tailwindlabs/headlessui",
+    "total_stars": 2,
+    "avg_recency_score": 12.5
+  },
+  {
+    "repo_name": "doublevcodes/englang",
+    "total_stars": 2,
+    "avg_recency_score": 13
+  },
+  {
+    "repo_name": "johnlindquist/kit",
+    "total_stars": 2,
+    "avg_recency_score": 16.5
+  },
+  {
+    "repo_name": "samber/github-actions-runner",
+    "total_stars": 2,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "twopluszero/next-images",
+    "total_stars": 2,
+    "avg_recency_score": 13
+  },
+  {
+    "repo_name": "gcanti/io-ts",
+    "total_stars": 2,
+    "avg_recency_score": 16
+  },
+  {
+    "repo_name": "OpenZeppelin/openzeppelin-contracts",
+    "total_stars": 2,
+    "avg_recency_score": 13
+  },
+  {
+    "repo_name": "mswjs/examples",
+    "total_stars": 2,
+    "avg_recency_score": 8
+  },
+  {
+    "repo_name": "mtdvio/every-programmer-should-know",
+    "total_stars": 2,
+    "avg_recency_score": 16.5
+  },
+  {
+    "repo_name": "ThatGuySam/doesitarm",
+    "total_stars": 2,
+    "avg_recency_score": 17
+  },
+  {
+    "repo_name": "Semantic-Org/Semantic-UI",
+    "total_stars": 2,
+    "avg_recency_score": 20
+  },
+  {
+    "repo_name": "socketio/socket.io",
+    "total_stars": 2,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "facebook/jest",
+    "total_stars": 2,
+    "avg_recency_score": 18
+  },
+  {
+    "repo_name": "QuiltMC/quilt-loader",
+    "total_stars": 2,
+    "avg_recency_score": 22
+  },
+  {
+    "repo_name": "alexellis/k3sup",
+    "total_stars": 2,
+    "avg_recency_score": 4.5
+  },
+  {
+    "repo_name": "yairEO/tagify",
+    "total_stars": 2,
+    "avg_recency_score": 17
+  },
+  {
+    "repo_name": "vladflonta/magento2-inline-translation-fix",
+    "total_stars": 2,
+    "avg_recency_score": 25
+  },
+  {
+    "repo_name": "viraptor/reverse-interview",
+    "total_stars": 2,
+    "avg_recency_score": 21
+  },
+  {
+    "repo_name": "yhirose/cpp-httplib",
+    "total_stars": 2,
+    "avg_recency_score": 13
+  },
+  {
+    "repo_name": "davidmerfield/randomColor",
+    "total_stars": 2,
+    "avg_recency_score": 27
+  },
+  {
+    "repo_name": "rails/rails",
+    "total_stars": 2,
+    "avg_recency_score": 15.5
+  },
+  {
+    "repo_name": "bundit/kord-app",
+    "total_stars": 2,
+    "avg_recency_score": 19
+  },
+  {
+    "repo_name": "cozyCodr/coderXcoded.github.io",
+    "total_stars": 2,
+    "avg_recency_score": 3
+  },
+  {
+    "repo_name": "ngneat/dag",
+    "total_stars": 2,
+    "avg_recency_score": 17
+  },
+  {
+    "repo_name": "lujakob/nestjs-realworld-example-app",
+    "total_stars": 2,
+    "avg_recency_score": 4
+  },
+  {
+    "repo_name": "microsoft/virtual-events",
+    "total_stars": 2,
+    "avg_recency_score": 26
+  },
+  {
+    "repo_name": "charlax/professional-programming",
+    "total_stars": 2,
+    "avg_recency_score": 11.5
+  },
+  {
+    "repo_name": "BinRoot/TensorFlow-Book",
+    "total_stars": 2,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "vercel/nextjs-subscription-payments",
+    "total_stars": 2,
+    "avg_recency_score": 16
+  },
+  {
+    "repo_name": "BitcoinDesign/Guide",
+    "total_stars": 2,
+    "avg_recency_score": 7
+  },
+  {
+    "repo_name": "Olanetsoft/Ticking-Clock-With-React",
+    "total_stars": 2,
+    "avg_recency_score": 4
+  },
+  {
+    "repo_name": "apparition47/MailTrackerBlocker",
+    "total_stars": 2,
+    "avg_recency_score": 19
+  },
+  {
+    "repo_name": "helix-editor/helix",
+    "total_stars": 2,
+    "avg_recency_score": 14
+  },
+  {
+    "repo_name": "goldbergyoni/javascript-testing-best-practices",
+    "total_stars": 2,
+    "avg_recency_score": 19
+  },
+  {
+    "repo_name": "chatwoot/chatwoot",
+    "total_stars": 2,
+    "avg_recency_score": 6.5
+  },
+  {
+    "repo_name": "chrishoste/eye-tracking",
+    "total_stars": 2,
+    "avg_recency_score": 0
+  },
+  {
+    "repo_name": "Alikhll/golang-developer-roadmap",
+    "total_stars": 2,
+    "avg_recency_score": 9
+  },
+  {
+    "repo_name": "Serial-Studio/Serial-Studio",
+    "total_stars": 2,
+    "avg_recency_score": 3
+  },
+  {
+    "repo_name": "LukeSmithxyz/voidrice",
+    "total_stars": 2,
+    "avg_recency_score": 8
+  },
+  {
+    "repo_name": "statelyai/xstate",
+    "total_stars": 2,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "ezgisubasi/turkish-tweets-sentiment-analysis",
+    "total_stars": 2,
+    "avg_recency_score": 14
+  },
+  {
+    "repo_name": "LunarVim/LunarVim",
+    "total_stars": 2,
+    "avg_recency_score": 11.5
+  },
+  {
+    "repo_name": "twbs/bootstrap",
+    "total_stars": 2,
+    "avg_recency_score": 10
+  },
+  {
+    "repo_name": "vvo/next-iron-session",
+    "total_stars": 2,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "jakedohm/vue-accessible-tabs",
+    "total_stars": 2,
+    "avg_recency_score": 9
+  },
+  {
+    "repo_name": "dart-lang/logviewer",
+    "total_stars": 2,
+    "avg_recency_score": 14
+  },
+  {
+    "repo_name": "breejs/bree",
+    "total_stars": 2,
+    "avg_recency_score": 7
+  },
+  {
+    "repo_name": "posquit0/Awesome-CV",
+    "total_stars": 2,
+    "avg_recency_score": 5.5
+  },
+  {
+    "repo_name": "probot/probot",
+    "total_stars": 2,
+    "avg_recency_score": 7.5
+  },
+  {
+    "repo_name": "dart-lang/.github",
+    "total_stars": 2,
+    "avg_recency_score": 4
+  },
+  {
+    "repo_name": "webdataset/webdataset",
+    "total_stars": 2,
+    "avg_recency_score": 12
+  },
+  {
+    "repo_name": "valueadd-poland/nestjs-packages",
+    "total_stars": 2,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "juicycleff/ultimate-backend",
+    "total_stars": 2,
+    "avg_recency_score": 7
+  },
+  {
+    "repo_name": "ngneat/helipopper",
+    "total_stars": 2,
+    "avg_recency_score": 29
+  },
+  {
+    "repo_name": "shiftcommerce/node-exercise",
+    "total_stars": 2,
+    "avg_recency_score": 20
+  },
+  {
+    "repo_name": "dart-lang/webcore",
+    "total_stars": 2,
+    "avg_recency_score": 3
+  },
+  {
+    "repo_name": "dialogflow/selfservicekiosk-audio-streaming",
+    "total_stars": 2,
+    "avg_recency_score": 7
+  },
+  {
+    "repo_name": "jeffThompson/DarkArduinoTheme",
+    "total_stars": 2,
+    "avg_recency_score": 26
+  },
+  {
+    "repo_name": "dart-lang/package-bots",
+    "total_stars": 2,
+    "avg_recency_score": 13
+  },
+  {
+    "repo_name": "Nazeeh21/Lottery-Contract",
+    "total_stars": 2,
+    "avg_recency_score": 9
+  },
+  {
+    "repo_name": "jimmysong/programmingbitcoin",
+    "total_stars": 2,
+    "avg_recency_score": 18
+  },
+  {
+    "repo_name": "calintamas/react-native-toast-message",
+    "total_stars": 2,
+    "avg_recency_score": 12
+  },
+  {
+    "repo_name": "Homebrew/homebrew-core",
+    "total_stars": 2,
+    "avg_recency_score": 10
+  },
+  {
+    "repo_name": "sheldor1510/local-party",
+    "total_stars": 2,
+    "avg_recency_score": 26
+  },
+  {
+    "repo_name": "MyloCarson/scss-boilerplate",
+    "total_stars": 2,
+    "avg_recency_score": 28
+  },
+  {
+    "repo_name": "jvns/dns-lookup",
+    "total_stars": 2,
+    "avg_recency_score": 22
+  },
+  {
+    "repo_name": "willmcgugan/rich",
+    "total_stars": 2,
+    "avg_recency_score": 1.5
+  },
+  {
+    "repo_name": "scottaohara/accessible_components",
+    "total_stars": 2,
+    "avg_recency_score": 0
+  },
+  {
+    "repo_name": "deterjan/samimi-selam",
+    "total_stars": 2,
+    "avg_recency_score": 18
+  },
+  {
+    "repo_name": "nikcheerla/neuralhash",
+    "total_stars": 2,
+    "avg_recency_score": 28
+  },
+  {
+    "repo_name": "chadstewart/tech-is-hiring-website",
+    "total_stars": 2,
+    "avg_recency_score": 1
+  },
+  {
+    "repo_name": "H-M-H/Weylus",
+    "total_stars": 2,
+    "avg_recency_score": 26
+  },
+  {
+    "repo_name": "Nazeeh21/Meshare",
+    "total_stars": 2,
+    "avg_recency_score": 0
+  },
+  {
+    "repo_name": "golang/lint",
+    "total_stars": 2,
+    "avg_recency_score": 21
+  },
+  {
+    "repo_name": "Mercateo/rust-for-node-developers",
+    "total_stars": 2,
+    "avg_recency_score": 29
+  },
+  {
+    "repo_name": "kentcdodds/beginners-guide-to-react",
+    "total_stars": 2,
+    "avg_recency_score": 12
+  },
+  {
+    "repo_name": "ArkerLabs/event-sourcing-nestjs",
+    "total_stars": 2,
+    "avg_recency_score": 12
+  },
+  {
+    "repo_name": "PrismJS/prism",
+    "total_stars": 2,
+    "avg_recency_score": 27
+  },
+  {
+    "repo_name": "maaslalani/slides",
+    "total_stars": 2,
+    "avg_recency_score": 12
+  },
+  {
+    "repo_name": "michelson/dante2",
+    "total_stars": 2,
+    "avg_recency_score": 23
+  },
+  {
+    "repo_name": "josdejong/workerpool",
+    "total_stars": 2,
+    "avg_recency_score": 28
+  },
+  {
+    "repo_name": "nestjs/axios",
+    "total_stars": 2,
+    "avg_recency_score": 15
+  },
+  {
+    "repo_name": "tailwindtoolbox/Ghostwind",
+    "total_stars": 2,
+    "avg_recency_score": 0
+  },
+  {
+    "repo_name": "open-sauced/goals-template",
+    "total_stars": 2,
+    "avg_recency_score": 4
+  },
+  {
+    "repo_name": "hackmdio/codimd",
+    "total_stars": 2,
+    "avg_recency_score": 7.5
+  },
+  {
+    "repo_name": "docker/awesome-compose",
+    "total_stars": 2,
+    "avg_recency_score": 14
+  },
+  {
+    "repo_name": "js-temporal/temporal-polyfill",
+    "total_stars": 2,
+    "avg_recency_score": 21
+  },
+  {
+    "repo_name": "linkerd/linkerd2",
+    "total_stars": 2,
+    "avg_recency_score": 19.5
+  },
+  {
+    "repo_name": "micromata/awesome-css-learning",
+    "total_stars": 2,
+    "avg_recency_score": 20
+  },
+  {
+    "repo_name": "Check2016/gta-v-driver",
+    "total_stars": 2,
+    "avg_recency_score": 28
+  },
+  {
+    "repo_name": "streamich/react-use",
+    "total_stars": 2,
+    "avg_recency_score": 4
+  },
+  {
+    "repo_name": "kllund/sample-pipeline-files",
+    "total_stars": 2,
+    "avg_recency_score": 4
+  },
+  {
+    "repo_name": "jamesqquick/Build-A-Quiz-App-With-HTML-CSS-and-JavaScript",
+    "total_stars": 2,
+    "avg_recency_score": 8
+  },
+  {
+    "repo_name": "ryanoasis/nerd-fonts",
+    "total_stars": 2,
+    "avg_recency_score": 16.5
+  },
+  {
+    "repo_name": "dart-lang/site-events",
+    "total_stars": 2,
+    "avg_recency_score": 2
+  },
+  {
+    "repo_name": "Emmeggi95/kolor-generator",
+    "total_stars": 2,
+    "avg_recency_score": 29
+  },
+  {
+    "repo_name": "devatquarxss/reusable-data-table-component-vue",
+    "total_stars": 2,
+    "avg_recency_score": 18
+  },
+  {
+    "repo_name": "substack/stream-handbook",
+    "total_stars": 2,
+    "avg_recency_score": 10.5
+  },
+  {
+    "repo_name": "rootkral4/phpreverseshell",
+    "total_stars": 2,
+    "avg_recency_score": 28
+  },
+  {
+    "repo_name": "AykutSarac/github-rater",
+    "total_stars": 2,
+    "avg_recency_score": 3
+  },
+  {
+    "repo_name": "cubyn/node-carotte-amqp",
+    "total_stars": 2,
+    "avg_recency_score": 18
+  },
+  {
+    "repo_name": "Minenash/Seamless-Loading-Screen",
+    "total_stars": 2,
+    "avg_recency_score": 25
+  },
+  {
+    "repo_name": "asos-craigmorten/opine",
+    "total_stars": 2,
+    "avg_recency_score": 10
+  },
+  {
+    "repo_name": "Zero-1729/coin-dodge",
+    "total_stars": 2,
+    "avg_recency_score": 5
+  },
+  {
+    "repo_name": "oppia/oppia",
+    "total_stars": 2,
+    "avg_recency_score": 4
+  },
+  {
+    "repo_name": "kuchin/awesome-cto",
+    "total_stars": 2,
+    "avg_recency_score": 14.5
+  },
+  {
+    "repo_name": "lewagon/setup",
+    "total_stars": 2,
+    "avg_recency_score": 9
+  },
+  {
+    "repo_name": "iulian-cenusa/frontend-mentor-interactive-pricing-component",
+    "total_stars": 2,
+    "avg_recency_score": 25
+  },
+  {
+    "repo_name": "abhisheknaiidu/awesome-github-profile-readme",
+    "total_stars": 2,
+    "avg_recency_score": 9.5
+  },
+  {
+    "repo_name": "Takata21/Frontend-Mentor-Interactive-pricing-component",
+    "total_stars": 2,
+    "avg_recency_score": 21
+  },
+  {
+    "repo_name": "channingallen/tower-defense",
+    "total_stars": 2,
+    "avg_recency_score": 26
+  },
+  {
+    "repo_name": "dart-lang/appengine_samples",
+    "total_stars": 2,
+    "avg_recency_score": 8
+  },
+  {
+    "repo_name": "svelte-add/svelte-add",
+    "total_stars": 2,
+    "avg_recency_score": 20
+  },
+  {
+    "repo_name": "robfig/cron",
+    "total_stars": 2,
+    "avg_recency_score": 7
+  },
+  {
+    "repo_name": "zkoppert/go-exercises",
+    "total_stars": 2,
+    "avg_recency_score": 19
+  },
+  {
+    "repo_name": "dart-lang/bazel_worker",
+    "total_stars": 2,
+    "avg_recency_score": 20
+  },
+  {
+    "repo_name": "yekaizhou/duet",
+    "total_stars": 2,
+    "avg_recency_score": 13
+  },
+  {
+    "repo_name": "dart-lang/dart-lang.github.io",
+    "total_stars": 2,
+    "avg_recency_score": 15
+  },
+  {
+    "repo_name": "Nazeeh21/Devdit-Blockchain",
+    "total_stars": 2,
+    "avg_recency_score": 14
+  },
+  {
+    "repo_name": "davidgrzyb/tailwind-admin-template",
+    "total_stars": 2,
+    "avg_recency_score": 16
+  },
+  {
+    "repo_name": "concrete-utopia/utopia",
+    "total_stars": 2,
+    "avg_recency_score": 13.5
+  },
+  {
+    "repo_name": "Zeesky-code/Snake-Game-Python",
+    "total_stars": 2,
+    "avg_recency_score": 2
+  },
+  {
+    "repo_name": "dart-lang/stack_trace",
+    "total_stars": 2,
+    "avg_recency_score": 24
+  },
+  {
+    "repo_name": "penk/ruha.camera",
+    "total_stars": 2,
+    "avg_recency_score": 8
+  },
+  {
+    "repo_name": "udhos/update-golang",
+    "total_stars": 2,
+    "avg_recency_score": 12
+  },
+  {
+    "repo_name": "jgehrcke/github-repo-stats",
+    "total_stars": 2,
+    "avg_recency_score": 4
+  },
+  {
+    "repo_name": "davidschuette/nestjs-file-streaming",
+    "total_stars": 2,
+    "avg_recency_score": 28
+  },
+  {
+    "repo_name": "kentcdodds/react-hooks",
+    "total_stars": 2,
+    "avg_recency_score": 18
+  },
+  {
+    "repo_name": "mochajs/mocha",
+    "total_stars": 2,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "codeshow/003-arquitetura-flask",
+    "total_stars": 2,
+    "avg_recency_score": 13
+  },
+  {
+    "repo_name": "eobrain/bajel",
+    "total_stars": 2,
+    "avg_recency_score": 16
+  },
+  {
+    "repo_name": "netlify/explorers",
+    "total_stars": 2,
+    "avg_recency_score": 14
+  },
+  {
+    "repo_name": "open-wa/wa-automate-nodejs",
+    "total_stars": 2,
+    "avg_recency_score": 25
+  },
+  {
+    "repo_name": "nx-go/nx-go",
+    "total_stars": 2,
+    "avg_recency_score": 26
+  },
+  {
+    "repo_name": "ajcwebdev/ajcwebdev-slinkity",
+    "total_stars": 2,
+    "avg_recency_score": 29
+  },
+  {
+    "repo_name": "upptime/upptime",
+    "total_stars": 2,
+    "avg_recency_score": 25
+  },
+  {
+    "repo_name": "beeman/panng-stack",
+    "total_stars": 2,
+    "avg_recency_score": 13
+  },
+  {
+    "repo_name": "hunterbecton/react-firebase-passwordless",
+    "total_stars": 2,
+    "avg_recency_score": 14.5
+  },
+  {
+    "repo_name": "RichardLitt/standard-readme",
+    "total_stars": 2,
+    "avg_recency_score": 1
+  },
+  {
+    "repo_name": "moleculerjs/moleculer",
+    "total_stars": 2,
+    "avg_recency_score": 12.5
+  },
+  {
+    "repo_name": "github/maintainerweek",
+    "total_stars": 2,
+    "avg_recency_score": 16.5
+  },
+  {
+    "repo_name": "Rust-for-Linux/linux",
+    "total_stars": 2,
+    "avg_recency_score": 15
+  },
+  {
+    "repo_name": "konrad91/OneDarkArduino",
+    "total_stars": 2,
+    "avg_recency_score": 25
+  },
+  {
+    "repo_name": "stryker-mutator/stryker-js",
+    "total_stars": 2,
+    "avg_recency_score": 6
+  },
+  {
+    "repo_name": "enochndika/kimia-UI",
+    "total_stars": 2,
+    "avg_recency_score": 3
+  },
+  {
+    "repo_name": "deiv/driftnet",
+    "total_stars": 2,
+    "avg_recency_score": 3
+  },
+  {
+    "repo_name": "FormidableLabs/urql",
+    "total_stars": 2,
+    "avg_recency_score": 21
+  },
+  {
+    "repo_name": "webcompat/webcompat.com",
+    "total_stars": 2,
+    "avg_recency_score": 29
+  },
+  {
+    "repo_name": "necolas/normalize.css",
+    "total_stars": 2,
+    "avg_recency_score": 12
+  },
+  {
+    "repo_name": "protocolbuffers/protobuf",
+    "total_stars": 2,
+    "avg_recency_score": 14
+  },
+  {
+    "repo_name": "shipshapecode/shepherd",
+    "total_stars": 2,
+    "avg_recency_score": 26
+  },
+  {
+    "repo_name": "alexis-martel/La-Revolte-RPG",
+    "total_stars": 2,
+    "avg_recency_score": 10
+  },
+  {
+    "repo_name": "dasDaniel/svelte-table",
+    "total_stars": 2,
+    "avg_recency_score": 21
+  },
+  {
+    "repo_name": "PawanJS/SimpleTraffic-basedPricing",
+    "total_stars": 2,
+    "avg_recency_score": 22
+  },
+  {
+    "repo_name": "radovskyb/watcher",
+    "total_stars": 2,
+    "avg_recency_score": 5
+  },
+  {
+    "repo_name": "gridsome/gridsome",
+    "total_stars": 2,
+    "avg_recency_score": 9
+  },
+  {
+    "repo_name": "open-guides/og-aws",
+    "total_stars": 2,
+    "avg_recency_score": 24
+  },
+  {
+    "repo_name": "rajatjindal/goodfirstissue",
+    "total_stars": 2,
+    "avg_recency_score": 20
+  },
+  {
+    "repo_name": "gads-projects/gallery",
+    "total_stars": 2,
+    "avg_recency_score": 0
+  },
+  {
+    "repo_name": "themesberg/volt-bootstrap-5-dashboard",
+    "total_stars": 2,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "gads-projects/doc",
+    "total_stars": 2,
+    "avg_recency_score": 1
+  },
+  {
+    "repo_name": "git-learning-game/oh-my-git",
+    "total_stars": 2,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "pnpm/pnpm",
+    "total_stars": 2,
+    "avg_recency_score": 17
+  },
+  {
+    "repo_name": "dart-lang/shelf_proxy",
+    "total_stars": 2,
+    "avg_recency_score": 10
+  },
+  {
+    "repo_name": "bdougie/take-action",
+    "total_stars": 2,
+    "avg_recency_score": 5
+  },
+  {
+    "repo_name": "opentok/opentok-node",
+    "total_stars": 2,
+    "avg_recency_score": 22
+  },
+  {
+    "repo_name": "CZ-NIC/knot-resolver",
+    "total_stars": 2,
+    "avg_recency_score": 16
+  },
+  {
+    "repo_name": "cryptoanarchywiki/cryptoanarchywiki.github.io",
+    "total_stars": 2,
+    "avg_recency_score": 4
+  },
+  {
+    "repo_name": "wowthemesnet/mediumish-theme-jekyll",
+    "total_stars": 2,
+    "avg_recency_score": 16
+  },
+  {
+    "repo_name": "isaacs/node-glob",
+    "total_stars": 2,
+    "avg_recency_score": 19
+  },
+  {
+    "repo_name": "Financial-Times/polyfill-service",
+    "total_stars": 2,
+    "avg_recency_score": 22
+  },
+  {
+    "repo_name": "apivideo/browserLiveStream",
+    "total_stars": 2,
+    "avg_recency_score": 21
+  },
+  {
+    "repo_name": "williamfiset/Algorithms",
+    "total_stars": 2,
+    "avg_recency_score": 5
+  },
+  {
+    "repo_name": "MicrosoftEdge/MSEdgeExplainers",
+    "total_stars": 2,
+    "avg_recency_score": 12
+  },
+  {
+    "repo_name": "wobsoriano/v-dashboard",
+    "total_stars": 2,
+    "avg_recency_score": 15
+  },
+  {
+    "repo_name": "angular-eslint/angular-eslint",
+    "total_stars": 2,
+    "avg_recency_score": 16
+  },
+  {
+    "repo_name": "arialdomartini/Back-End-Developer-Interview-Questions",
+    "total_stars": 2,
+    "avg_recency_score": 16
+  },
+  {
+    "repo_name": "ryancharris/react-livestream",
+    "total_stars": 2,
+    "avg_recency_score": 17
+  },
+  {
+    "repo_name": "tiangolo/sqlmodel",
+    "total_stars": 2,
+    "avg_recency_score": 1.5
+  },
+  {
+    "repo_name": "muaz-khan/RecordRTC",
+    "total_stars": 2,
+    "avg_recency_score": 6
+  },
+  {
+    "repo_name": "Build5Nines/azure-kung-fu-dockervm",
+    "total_stars": 2,
+    "avg_recency_score": 5
+  },
+  {
+    "repo_name": "dart-lang/http_multi_server",
+    "total_stars": 2,
+    "avg_recency_score": 29
+  },
+  {
+    "repo_name": "dart-lang/yaml",
+    "total_stars": 2,
+    "avg_recency_score": 6
+  },
+  {
+    "repo_name": "SFTtech/openage",
+    "total_stars": 2,
+    "avg_recency_score": 19
+  },
+  {
+    "repo_name": "yang-song/score_sde_pytorch",
+    "total_stars": 2,
+    "avg_recency_score": 16
+  },
+  {
+    "repo_name": "builders-club/onlythemes",
+    "total_stars": 2,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "ReactTraining/react-workshop",
+    "total_stars": 2,
+    "avg_recency_score": 9.5
+  },
+  {
+    "repo_name": "Dhaiwat10/react-link-preview",
+    "total_stars": 2,
+    "avg_recency_score": 15
+  },
+  {
+    "repo_name": "torvalds/linux",
+    "total_stars": 2,
+    "avg_recency_score": 23
+  },
+  {
+    "repo_name": "adrianhajdin/project_chat_application",
+    "total_stars": 2,
+    "avg_recency_score": 23
+  },
+  {
+    "repo_name": "fatih/vim-go",
+    "total_stars": 2,
+    "avg_recency_score": 20
+  },
+  {
+    "repo_name": "nfl/react-helmet",
+    "total_stars": 2,
+    "avg_recency_score": 10
+  },
+  {
+    "repo_name": "oscafrica/awesome-open-source",
+    "total_stars": 2,
+    "avg_recency_score": 29
+  },
+  {
+    "repo_name": "akito0107/ORF-Webcam-Server",
+    "total_stars": 2,
+    "avg_recency_score": 29
+  },
+  {
+    "repo_name": "yusufyilmazfr/tasarim-desenleri-turkce-kaynak",
+    "total_stars": 2,
+    "avg_recency_score": 7
+  },
+  {
+    "repo_name": "timdeschryver/rx-query",
+    "total_stars": 2,
+    "avg_recency_score": 5
+  },
+  {
+    "repo_name": "ethereum-ts/TypeChain",
+    "total_stars": 2,
+    "avg_recency_score": 16
+  },
+  {
+    "repo_name": "tc39/proposal-built-in-modules",
+    "total_stars": 2,
+    "avg_recency_score": 15
+  },
+  {
+    "repo_name": "philips-forks/innersource-crawler",
+    "total_stars": 2,
+    "avg_recency_score": 3
+  },
+  {
+    "repo_name": "go-ping/ping",
+    "total_stars": 2,
+    "avg_recency_score": 3
+  },
+  {
+    "repo_name": "livebook-dev/livebook",
+    "total_stars": 2,
+    "avg_recency_score": 2
+  },
+  {
+    "repo_name": "krishdevdb/reseter.css",
+    "total_stars": 2,
+    "avg_recency_score": 16
+  },
+  {
+    "repo_name": "rust-lang/rustlings",
+    "total_stars": 2,
+    "avg_recency_score": 9
+  },
+  {
+    "repo_name": "tsoonjin/selam",
+    "total_stars": 2,
+    "avg_recency_score": 17
+  },
+  {
+    "repo_name": "sindresorhus/css-in-readme-like-wat",
+    "total_stars": 2,
+    "avg_recency_score": 7
+  },
+  {
+    "repo_name": "CyberPunkMetalHead/Binance-volatility-trading-bot",
+    "total_stars": 2,
+    "avg_recency_score": 15
+  },
+  {
+    "repo_name": "github/codescanning-jira-integration",
+    "total_stars": 2,
+    "avg_recency_score": 2
+  },
+  {
+    "repo_name": "material-components/material-components-flutter-codelabs",
+    "total_stars": 2,
+    "avg_recency_score": 1
+  },
+  {
+    "repo_name": "pragmaticivan/nestjs-otel",
+    "total_stars": 2,
+    "avg_recency_score": 5
+  },
+  {
+    "repo_name": "theodorusclarence/vite-react-tailwind-starter",
+    "total_stars": 2,
+    "avg_recency_score": 14
+  },
+  {
+    "repo_name": "dart-lang/pool",
+    "total_stars": 2,
+    "avg_recency_score": 25
+  },
+  {
+    "repo_name": "tamino-martinius/node-ts-dedent",
+    "total_stars": 2,
+    "avg_recency_score": 23
+  },
+  {
+    "repo_name": "jasonericdavis/test-repo",
+    "total_stars": 2,
+    "avg_recency_score": 24
+  },
+  {
+    "repo_name": "DavidAnson/markdownlint",
+    "total_stars": 2,
+    "avg_recency_score": 29
+  },
+  {
+    "repo_name": "freeplane/freeplane",
+    "total_stars": 2,
+    "avg_recency_score": 5
+  },
+  {
+    "repo_name": "zkoppert/innersource-crawler",
+    "total_stars": 2,
+    "avg_recency_score": 13
+  },
+  {
+    "repo_name": "dart-lang/dump-info-visualizer",
+    "total_stars": 2,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "SKRohit/Generating_Text_Summary_With_GPT2",
+    "total_stars": 2,
+    "avg_recency_score": 15
+  },
+  {
+    "repo_name": "ngneat/variabless",
+    "total_stars": 2,
+    "avg_recency_score": 7
+  },
+  {
+    "repo_name": "dart-lang/browser_launcher",
+    "total_stars": 2,
+    "avg_recency_score": 23
+  },
+  {
+    "repo_name": "DigitalOptimizationGroup/cloudflare-edge-proxy",
+    "total_stars": 2,
+    "avg_recency_score": 19
+  },
+  {
+    "repo_name": "dwmkerr/hacker-laws",
+    "total_stars": 2,
+    "avg_recency_score": 13.5
+  },
+  {
+    "repo_name": "mikepenz/release-changelog-builder-action",
+    "total_stars": 2,
+    "avg_recency_score": 2
+  },
+  {
+    "repo_name": "carbon-design-system/carbon-for-ibm-dotcom-nextjs-test",
+    "total_stars": 2,
+    "avg_recency_score": 1
+  },
+  {
+    "repo_name": "MakeContributions/DSA",
+    "total_stars": 2,
+    "avg_recency_score": 0
+  },
+  {
+    "repo_name": "handlebars-lang/handlebars.js",
+    "total_stars": 2,
+    "avg_recency_score": 20
+  },
+  {
+    "repo_name": "HackerThemes/spur-template",
+    "total_stars": 2,
+    "avg_recency_score": 23
+  },
+  {
+    "repo_name": "postcss/autoprefixer",
+    "total_stars": 2,
+    "avg_recency_score": 25
+  },
+  {
+    "repo_name": "mysticatea/npm-run-all",
+    "total_stars": 2,
+    "avg_recency_score": 18
+  },
+  {
+    "repo_name": "gitpod-io/roadmap",
+    "total_stars": 2,
+    "avg_recency_score": 10
+  },
+  {
+    "repo_name": "timdeschryver/ngrx-immer",
+    "total_stars": 2,
+    "avg_recency_score": 14
+  },
+  {
+    "repo_name": "typicode/lowdb",
+    "total_stars": 2,
+    "avg_recency_score": 15
+  },
+  {
+    "repo_name": "felix-fly/openwrt-ohmyzsh",
+    "total_stars": 2,
+    "avg_recency_score": 19
+  },
+  {
+    "repo_name": "dailydotdev/daily",
+    "total_stars": 2,
+    "avg_recency_score": 8
+  },
+  {
+    "repo_name": "cabaletta/baritone",
+    "total_stars": 2,
+    "avg_recency_score": 24
+  },
+  {
+    "repo_name": "tj/commander.js",
+    "total_stars": 2,
+    "avg_recency_score": 16.5
+  },
+  {
+    "repo_name": "shainakrumme/open-source-handbook",
+    "total_stars": 2,
+    "avg_recency_score": 10
+  },
+  {
+    "repo_name": "focus-trap/focus-trap-react",
+    "total_stars": 2,
+    "avg_recency_score": 24
+  },
+  {
+    "repo_name": "charmbracelet/glow",
+    "total_stars": 2,
+    "avg_recency_score": 18
+  },
+  {
+    "repo_name": "dart-lang/boringssl_gen",
+    "total_stars": 2,
+    "avg_recency_score": 5
+  },
+  {
+    "repo_name": "bahdcoder/coin-doctor",
+    "total_stars": 2,
+    "avg_recency_score": 22
+  },
+  {
+    "repo_name": "animate-css/animate.css",
+    "total_stars": 2,
+    "avg_recency_score": 15.5
+  },
+  {
+    "repo_name": "dart-lang/source_maps",
+    "total_stars": 2,
+    "avg_recency_score": 19
+  },
+  {
+    "repo_name": "zkoppert/Auto-branch-protect",
+    "total_stars": 2,
+    "avg_recency_score": 24
+  },
+  {
+    "repo_name": "madebygps/self-taught-guide-to-cloud-computing",
+    "total_stars": 2,
+    "avg_recency_score": 17
+  },
+  {
+    "repo_name": "samshadwell/TrumpScript",
+    "total_stars": 2,
+    "avg_recency_score": 14
+  },
+  {
+    "repo_name": "typestack/class-validator",
+    "total_stars": 2,
+    "avg_recency_score": 24
+  },
+  {
+    "repo_name": "beyonk-adventures/svelte-carousel",
+    "total_stars": 2,
+    "avg_recency_score": 4
+  },
+  {
+    "repo_name": "Foundry376/Mailspring",
+    "total_stars": 2,
+    "avg_recency_score": 7.5
+  },
+  {
+    "repo_name": "graphql/graphiql",
+    "total_stars": 2,
+    "avg_recency_score": 2
+  },
+  {
+    "repo_name": "react-hook-form/react-hook-form",
+    "total_stars": 2,
+    "avg_recency_score": 19
+  },
+  {
+    "repo_name": "dspinellis/unix-history-repo",
+    "total_stars": 2,
+    "avg_recency_score": 28
+  },
+  {
+    "repo_name": "microsoft/PowerToys",
+    "total_stars": 2,
+    "avg_recency_score": 8
+  },
+  {
+    "repo_name": "gpbl/react-day-picker",
+    "total_stars": 2,
+    "avg_recency_score": 29
+  },
+  {
+    "repo_name": "pressly/goose",
+    "total_stars": 2,
+    "avg_recency_score": 1
+  },
+  {
+    "repo_name": "bwmarrin/discordgo",
+    "total_stars": 2,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "gitcoinco/web",
+    "total_stars": 2,
+    "avg_recency_score": 8
+  },
+  {
+    "repo_name": "Asabeneh/30-Days-Of-React",
+    "total_stars": 2,
+    "avg_recency_score": 10
+  },
+  {
+    "repo_name": "massgravel/Microsoft-Activation-Scripts",
+    "total_stars": 2,
+    "avg_recency_score": 19
+  },
+  {
+    "repo_name": "unjs/unplugin",
+    "total_stars": 2,
+    "avg_recency_score": 13
+  },
+  {
+    "repo_name": "babel/actions",
+    "total_stars": 2,
+    "avg_recency_score": 16
+  },
+  {
+    "repo_name": "zloylos/grsync",
+    "total_stars": 2,
+    "avg_recency_score": 6
+  },
+  {
+    "repo_name": "h5bp/Front-end-Developer-Interview-Questions",
+    "total_stars": 2,
+    "avg_recency_score": 8
+  },
+  {
+    "repo_name": "diamondburned/arikawa",
+    "total_stars": 2,
+    "avg_recency_score": 10
+  },
+  {
+    "repo_name": "pholleran/ghas-pr-notifications",
+    "total_stars": 2,
+    "avg_recency_score": 9
+  },
+  {
+    "repo_name": "gothinkster/realworld",
+    "total_stars": 2,
+    "avg_recency_score": 17
+  },
+  {
+    "repo_name": "erkrnt/sample-web-frameworks",
+    "total_stars": 2,
+    "avg_recency_score": 22
+  },
+  {
+    "repo_name": "open-sauced/tweeps",
+    "total_stars": 2,
+    "avg_recency_score": 10
+  },
+  {
+    "repo_name": "croqaz/awesome-decentralized",
+    "total_stars": 2,
+    "avg_recency_score": 19
+  },
+  {
+    "repo_name": "ncase/wbwwb",
+    "total_stars": 2,
+    "avg_recency_score": 7
+  },
+  {
+    "repo_name": "github/india",
+    "total_stars": 2,
+    "avg_recency_score": 18.5
+  },
+  {
+    "repo_name": "react-navigation/react-navigation",
+    "total_stars": 2,
+    "avg_recency_score": 6
+  },
+  {
+    "repo_name": "skiptirengu/media-split",
+    "total_stars": 2,
+    "avg_recency_score": 9
+  },
+  {
+    "repo_name": "basecamp/trix",
+    "total_stars": 2,
+    "avg_recency_score": 24.5
+  },
+  {
+    "repo_name": "reasonml/reason",
+    "total_stars": 2,
+    "avg_recency_score": 22
+  },
+  {
+    "repo_name": "python-discord/cj8-qualifier",
+    "total_stars": 2,
+    "avg_recency_score": 20
+  },
+  {
+    "repo_name": "cerebroapp/cerebro",
+    "total_stars": 2,
+    "avg_recency_score": 9
+  },
+  {
+    "repo_name": "Sunchit/Coding-Decoded",
+    "total_stars": 2,
+    "avg_recency_score": 1
+  },
+  {
+    "repo_name": "survivejs/webpack-merge",
+    "total_stars": 2,
+    "avg_recency_score": 17
+  },
+  {
+    "repo_name": "dart-lang/dart_docker",
+    "total_stars": 2,
+    "avg_recency_score": 27
+  },
+  {
+    "repo_name": "jprichardson/node-fs-extra",
+    "total_stars": 2,
+    "avg_recency_score": 15
+  },
+  {
+    "repo_name": "Sycnex/Windows10Debloater",
+    "total_stars": 2,
+    "avg_recency_score": 24
+  },
+  {
+    "repo_name": "rubymorillo/pocket-tech-writing-list",
+    "total_stars": 2,
+    "avg_recency_score": 7
+  },
+  {
+    "repo_name": "Rem0o/FanControl.Releases",
+    "total_stars": 2,
+    "avg_recency_score": 24
+  },
+  {
+    "repo_name": "cncf/mentoring",
+    "total_stars": 2,
+    "avg_recency_score": 10.5
+  },
+  {
+    "repo_name": "dart-lang/glob",
+    "total_stars": 2,
+    "avg_recency_score": 12
+  },
+  {
+    "repo_name": "GoogleChrome/lighthouse",
+    "total_stars": 2,
+    "avg_recency_score": 0
+  },
+  {
+    "repo_name": "saulpw/visidata",
+    "total_stars": 2,
+    "avg_recency_score": 4
+  },
+  {
+    "repo_name": "NarHakobyan/awesome-nest-boilerplate",
+    "total_stars": 2,
+    "avg_recency_score": 6
+  },
+  {
+    "repo_name": "KarenOk/abeg-app-clone",
+    "total_stars": 2,
+    "avg_recency_score": 14
+  },
+  {
+    "repo_name": "zulip/zulip",
+    "total_stars": 2,
+    "avg_recency_score": 6.5
+  },
+  {
+    "repo_name": "sdras/career-ladders",
+    "total_stars": 2,
+    "avg_recency_score": 21
+  },
+  {
+    "repo_name": "lowlighter/metrics",
+    "total_stars": 2,
+    "avg_recency_score": 10.5
+  },
+  {
+    "repo_name": "samswag/Football",
+    "total_stars": 2,
+    "avg_recency_score": 21
+  },
+  {
+    "repo_name": "typicode/json-server",
+    "total_stars": 2,
+    "avg_recency_score": 21.5
+  },
+  {
+    "repo_name": "convoy-js/nest-convoy",
+    "total_stars": 2,
+    "avg_recency_score": 10
+  },
+  {
+    "repo_name": "jamstack-cms/jamstack-ecommerce",
+    "total_stars": 2,
+    "avg_recency_score": 3
+  },
+  {
+    "repo_name": "steveseguin/vdo.ninja",
+    "total_stars": 2,
+    "avg_recency_score": 19
+  },
+  {
+    "repo_name": "all-contributors/all-contributors",
+    "total_stars": 2,
+    "avg_recency_score": 9
+  },
+  {
+    "repo_name": "SupremeTechnopriest/react-idle-timer",
+    "total_stars": 2,
+    "avg_recency_score": 29
+  },
+  {
+    "repo_name": "Hack-with-Github/Awesome-Hacking",
+    "total_stars": 2,
+    "avg_recency_score": 19
+  },
+  {
+    "repo_name": "kwea123/nsff_pl",
+    "total_stars": 2,
+    "avg_recency_score": 17
+  },
+  {
+    "repo_name": "thevinter/styli.sh",
+    "total_stars": 2,
+    "avg_recency_score": 13
+  },
+  {
+    "repo_name": "dart-lang/shelf_web_socket",
+    "total_stars": 2,
+    "avg_recency_score": 9
+  },
+  {
+    "repo_name": "tarnishablec/frog-admin",
+    "total_stars": 2,
+    "avg_recency_score": 28
+  },
+  {
+    "repo_name": "chromium/chromium",
+    "total_stars": 2,
+    "avg_recency_score": 1
+  },
+  {
+    "repo_name": "directus/directus",
+    "total_stars": 2,
+    "avg_recency_score": 16
+  },
+  {
+    "repo_name": "VickiLanger/LGBTQ-of-the-day-bot",
+    "total_stars": 2,
+    "avg_recency_score": 18
+  },
+  {
+    "repo_name": "ppy/osu",
+    "total_stars": 2,
+    "avg_recency_score": 15
+  },
+  {
+    "repo_name": "SBoudrias/Inquirer.js",
+    "total_stars": 2,
+    "avg_recency_score": 13
+  },
+  {
+    "repo_name": "rx-mind/ngrx-plugins",
+    "total_stars": 2,
+    "avg_recency_score": 4
+  },
+  {
+    "repo_name": "bricewilson/Debugging-Sites-Using-Chrome-DevTools",
+    "total_stars": 2,
+    "avg_recency_score": 27
+  },
+  {
+    "repo_name": "kleampa/not-paid",
+    "total_stars": 2,
+    "avg_recency_score": 21
+  },
+  {
+    "repo_name": "nextapps-de/winbox",
+    "total_stars": 2,
+    "avg_recency_score": 1.5
+  },
+  {
+    "repo_name": "babel/babel",
+    "total_stars": 2,
+    "avg_recency_score": 10
+  },
+  {
+    "repo_name": "Qvant-lab/qui",
+    "total_stars": 2,
+    "avg_recency_score": 29
+  },
+  {
+    "repo_name": "alacritty/alacritty",
+    "total_stars": 2,
+    "avg_recency_score": 15.5
+  },
+  {
+    "repo_name": "gitpod-io/leeway",
+    "total_stars": 2,
+    "avg_recency_score": 6
+  },
+  {
+    "repo_name": "mob-programming-meetup/cloud-desktop",
+    "total_stars": 2,
+    "avg_recency_score": 6
+  },
+  {
+    "repo_name": "microsoft/Web-Dev-For-Beginners",
+    "total_stars": 2,
+    "avg_recency_score": 6
+  },
+  {
+    "repo_name": "greister/Awesome-Julia",
+    "total_stars": 2,
+    "avg_recency_score": 27
+  },
+  {
+    "repo_name": "loopDelicious/sparkles",
+    "total_stars": 2,
+    "avg_recency_score": 23
+  },
+  {
+    "repo_name": "getify/eslint-plugin-proper-ternary",
+    "total_stars": 2,
+    "avg_recency_score": 21
+  },
+  {
+    "repo_name": "livewire-ui/modal",
+    "total_stars": 2,
+    "avg_recency_score": 7
+  },
+  {
+    "repo_name": "mTvare6/hello-world.rs",
+    "total_stars": 2,
+    "avg_recency_score": 5
+  },
+  {
+    "repo_name": "dabit3/chicken-tikka-masala-recipe",
+    "total_stars": 2,
+    "avg_recency_score": 0
+  },
+  {
+    "repo_name": "Dhaiwat10/simple-nft",
+    "total_stars": 2,
+    "avg_recency_score": 17
+  },
+  {
+    "repo_name": "pmndrs/react-spring",
+    "total_stars": 2,
+    "avg_recency_score": 4
+  },
+  {
+    "repo_name": "w3c/wcag",
+    "total_stars": 2,
+    "avg_recency_score": 8
+  },
+  {
+    "repo_name": "leosuncin/nest-auth-example",
+    "total_stars": 2,
+    "avg_recency_score": 1
+  },
+  {
+    "repo_name": "gohugoio/hugo",
+    "total_stars": 2,
+    "avg_recency_score": 21.5
+  },
+  {
+    "repo_name": "jupyterlab/jupyterlab",
+    "total_stars": 2,
+    "avg_recency_score": 6
+  },
+  {
+    "repo_name": "corda/corda",
+    "total_stars": 2,
+    "avg_recency_score": 3.5
+  },
+  {
+    "repo_name": "javascript-tutorial/en.javascript.info",
+    "total_stars": 2,
+    "avg_recency_score": 16.5
+  },
+  {
+    "repo_name": "jajaperson/nestjs-auth0",
+    "total_stars": 2,
+    "avg_recency_score": 10
+  },
+  {
+    "repo_name": "user234683/youtube-local",
+    "total_stars": 2,
+    "avg_recency_score": 20
+  },
+  {
+    "repo_name": "jarun/buku",
+    "total_stars": 2,
+    "avg_recency_score": 4
+  },
+  {
+    "repo_name": "zero-to-mastery/JS_Fun_Practice",
+    "total_stars": 2,
+    "avg_recency_score": 3
+  },
+  {
+    "repo_name": "vladflonta/magento2-webapi-log",
+    "total_stars": 2,
+    "avg_recency_score": 23
+  },
+  {
+    "repo_name": "ccxt/ccxt",
+    "total_stars": 2,
+    "avg_recency_score": 17
+  },
+  {
+    "repo_name": "VeryGoodOpenSource/very_good_cli",
+    "total_stars": 2,
+    "avg_recency_score": 0
+  },
+  {
+    "repo_name": "google/model-viewer",
+    "total_stars": 2,
+    "avg_recency_score": 12
+  },
+  {
+    "repo_name": "okonet/lint-staged",
+    "total_stars": 2,
+    "avg_recency_score": 28
+  },
+  {
+    "repo_name": "gofiber/fiber",
+    "total_stars": 2,
+    "avg_recency_score": 22.5
+  },
+  {
+    "repo_name": "blueedgetechno/windows11",
+    "total_stars": 2,
+    "avg_recency_score": 4
+  },
+  {
+    "repo_name": "xmldom/xmldom",
+    "total_stars": 2,
+    "avg_recency_score": 23
+  },
+  {
+    "repo_name": "swaggo/swag",
+    "total_stars": 2,
+    "avg_recency_score": 13.5
+  },
+  {
+    "repo_name": "graphql-nexus/nexus",
+    "total_stars": 2,
+    "avg_recency_score": 16
+  },
+  {
+    "repo_name": "celery/celery",
+    "total_stars": 2,
+    "avg_recency_score": 12.5
+  },
+  {
+    "repo_name": "dexteryy/spellbook-of-modern-webdev",
+    "total_stars": 2,
+    "avg_recency_score": 20
+  },
+  {
+    "repo_name": "dart-lang/term_glyph",
+    "total_stars": 2,
+    "avg_recency_score": 17
+  },
+  {
+    "repo_name": "mame/quine-relay",
+    "total_stars": 2,
+    "avg_recency_score": 27
+  },
+  {
+    "repo_name": "Offroaders123/Smart-Text-Editor",
+    "total_stars": 2,
+    "avg_recency_score": 26
+  },
+  {
+    "repo_name": "cobidev/gatsby-simplefolio",
+    "total_stars": 2,
+    "avg_recency_score": 14
+  },
+  {
+    "repo_name": "witchard/tutorial-react-parcel-express",
+    "total_stars": 2,
+    "avg_recency_score": 5
+  },
+  {
+    "repo_name": "Umuzi-org/django-react-stack",
+    "total_stars": 2,
+    "avg_recency_score": 6
+  },
+  {
+    "repo_name": "dart-lang/ffi",
+    "total_stars": 2,
+    "avg_recency_score": 28
+  },
+  {
+    "repo_name": "checkly/headless-recorder",
+    "total_stars": 2,
+    "avg_recency_score": 9
+  },
+  {
+    "repo_name": "andresz1/size-limit-action",
+    "total_stars": 2,
+    "avg_recency_score": 3
+  },
+  {
+    "repo_name": "benjsicam/nestjs-graphql-microservices",
+    "total_stars": 2,
+    "avg_recency_score": 3
+  },
+  {
+    "repo_name": "blakeembrey/change-case",
+    "total_stars": 2,
+    "avg_recency_score": 0
+  },
+  {
+    "repo_name": "lewagon/dotfiles",
+    "total_stars": 2,
+    "avg_recency_score": 9
+  },
+  {
+    "repo_name": "browserify/watchify",
+    "total_stars": 2,
+    "avg_recency_score": 0
+  },
+  {
+    "repo_name": "yannickglt/store-devtools-switcher",
+    "total_stars": 2,
+    "avg_recency_score": 22
+  },
+  {
+    "repo_name": "dart-lang/boolean_selector",
+    "total_stars": 2,
+    "avg_recency_score": 16
+  },
+  {
+    "repo_name": "semantic-release/twitter-together",
+    "total_stars": 2,
+    "avg_recency_score": 21
+  },
+  {
+    "repo_name": "tabler/tabler",
+    "total_stars": 2,
+    "avg_recency_score": 15
+  },
+  {
+    "repo_name": "cli/cli",
+    "total_stars": 2,
+    "avg_recency_score": 6
+  },
+  {
+    "repo_name": "HabitRPG/habitica",
+    "total_stars": 2,
+    "avg_recency_score": 6.5
+  },
+  {
+    "repo_name": "github/github-team-sync",
+    "total_stars": 2,
+    "avg_recency_score": 22
+  },
+  {
+    "repo_name": "drewclem/protege",
+    "total_stars": 2,
+    "avg_recency_score": 5.5
+  },
+  {
+    "repo_name": "dart-lang/api.dart.dev",
+    "total_stars": 2,
+    "avg_recency_score": 7
+  },
+  {
+    "repo_name": "lobsters/lobsters",
+    "total_stars": 2,
+    "avg_recency_score": 20
+  },
+  {
+    "repo_name": "rockerBOO/awesome-neovim",
+    "total_stars": 2,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "hardyscc/nestjs-cqrs-starter",
+    "total_stars": 2,
+    "avg_recency_score": 0
+  },
+  {
+    "repo_name": "mhinz/vim-galore",
+    "total_stars": 2,
+    "avg_recency_score": 14.5
+  },
+  {
+    "repo_name": "ryan-rozario/pipreqs-action",
+    "total_stars": 2,
+    "avg_recency_score": 14
+  },
+  {
+    "repo_name": "jasonericdavis/FF_Picker",
+    "total_stars": 2,
+    "avg_recency_score": 0
+  },
+  {
+    "repo_name": "bradtraversy/vanillawebprojects",
+    "total_stars": 2,
+    "avg_recency_score": 2
+  },
+  {
+    "repo_name": "cnlohr/esp8266ws2812i2s",
+    "total_stars": 2,
+    "avg_recency_score": 22
+  },
+  {
+    "repo_name": "trungk18/angular-spotify",
+    "total_stars": 2,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "sadasystems/private-message",
+    "total_stars": 2,
+    "avg_recency_score": 3
+  },
+  {
+    "repo_name": "sorrycc/awesome-javascript",
+    "total_stars": 2,
+    "avg_recency_score": 3.5
+  },
+  {
+    "repo_name": "expo/config-plugins",
+    "total_stars": 2,
+    "avg_recency_score": 9
+  },
+  {
+    "repo_name": "Tubular-Terriers/code-jam",
+    "total_stars": 2,
+    "avg_recency_score": 19
+  },
+  {
+    "repo_name": "sniptt-official/guards",
+    "total_stars": 2,
+    "avg_recency_score": 6
+  },
+  {
+    "repo_name": "gobeam/vending-machine-demo",
+    "total_stars": 2,
+    "avg_recency_score": 19
+  },
+  {
+    "repo_name": "SFI-Lero/TREES-InnerSource_Project_Fitness",
+    "total_stars": 2,
+    "avg_recency_score": 17
+  },
+  {
+    "repo_name": "watson-developer-cloud/node-sdk",
+    "total_stars": 2,
+    "avg_recency_score": 5
+  },
+  {
+    "repo_name": "actions/checkout",
+    "total_stars": 2,
+    "avg_recency_score": 2
+  },
+  {
+    "repo_name": "mdbootstrap/mdb-vue-ui-kit",
+    "total_stars": 2,
+    "avg_recency_score": 7
+  },
+  {
+    "repo_name": "Ashlar/binance-api-node",
+    "total_stars": 2,
+    "avg_recency_score": 24
+  },
+  {
+    "repo_name": "QuiltMC/quilt-installer",
+    "total_stars": 2,
+    "avg_recency_score": 21
+  },
+  {
+    "repo_name": "accessibilitysupported/a11ysupport.io",
+    "total_stars": 2,
+    "avg_recency_score": 1
+  },
+  {
+    "repo_name": "30-seconds/30-seconds-of-interviews",
+    "total_stars": 2,
+    "avg_recency_score": 17
+  },
+  {
+    "repo_name": "ngneat/tailwind",
+    "total_stars": 2,
+    "avg_recency_score": 18
+  },
+  {
+    "repo_name": "microsoft/Power-Fx",
+    "total_stars": 2,
+    "avg_recency_score": 18
+  },
+  {
+    "repo_name": "nrwl/zack-live-stream",
+    "total_stars": 2,
+    "avg_recency_score": 20
+  },
+  {
+    "repo_name": "nartc/ngrx-slice",
+    "total_stars": 2,
+    "avg_recency_score": 6
+  },
+  {
+    "repo_name": "dailydotdev/apps",
+    "total_stars": 2,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "open-sauced/slaybot",
+    "total_stars": 2,
+    "avg_recency_score": 6
+  },
+  {
+    "repo_name": "facebook/prop-types",
+    "total_stars": 2,
+    "avg_recency_score": 22
+  },
+  {
+    "repo_name": "dart-lang/pub_semver",
+    "total_stars": 2,
+    "avg_recency_score": 21
+  },
+  {
+    "repo_name": "k3s-io/k3s",
+    "total_stars": 2,
+    "avg_recency_score": 21
+  },
+  {
+    "repo_name": "braydoncoyer/officeapi",
+    "total_stars": 2,
+    "avg_recency_score": 10
+  },
+  {
+    "repo_name": "vladflonta/magento2-validate-hostname-fix",
+    "total_stars": 2,
+    "avg_recency_score": 24
+  },
+  {
+    "repo_name": "pmndrs/racing-game",
+    "total_stars": 2,
+    "avg_recency_score": 27
+  },
+  {
+    "repo_name": "sdras/fortnite-vscode-theme",
+    "total_stars": 2,
+    "avg_recency_score": 2
+  },
+  {
+    "repo_name": "arturssmirnovs/github-profile-readme-generator",
+    "total_stars": 2,
+    "avg_recency_score": 27
+  },
+  {
+    "repo_name": "danthareja/contribute-to-open-source",
+    "total_stars": 2,
+    "avg_recency_score": 16
+  },
+  {
+    "repo_name": "arturbien/React95",
+    "total_stars": 2,
+    "avg_recency_score": 18
+  },
+  {
+    "repo_name": "rust-lang/rust",
+    "total_stars": 2,
+    "avg_recency_score": 2
+  },
+  {
+    "repo_name": "kkoudelka/DeltaCraft",
+    "total_stars": 2,
+    "avg_recency_score": 26
+  },
+  {
+    "repo_name": "sharkdp/hyperfine",
+    "total_stars": 2,
+    "avg_recency_score": 25
+  },
+  {
+    "repo_name": "dylanaraps/pywal",
+    "total_stars": 2,
+    "avg_recency_score": 12
+  },
+  {
+    "repo_name": "actions/toolkit",
+    "total_stars": 2,
+    "avg_recency_score": 17
+  },
+  {
+    "repo_name": "pvarentsov/typescript-clean-architecture",
+    "total_stars": 2,
+    "avg_recency_score": 9
+  },
+  {
+    "repo_name": "nestjs/cqrs",
+    "total_stars": 2,
+    "avg_recency_score": 3
+  },
+  {
+    "repo_name": "sudheerj/reactjs-interview-questions",
+    "total_stars": 2,
+    "avg_recency_score": 15
+  },
+  {
+    "repo_name": "JedWatson/classnames",
+    "total_stars": 2,
+    "avg_recency_score": 23
+  },
+  {
+    "repo_name": "Dhaiwat10/furniture-exchange",
+    "total_stars": 2,
+    "avg_recency_score": 5
+  },
+  {
+    "repo_name": "mrousavy/react-native-mmkv",
+    "total_stars": 2,
+    "avg_recency_score": 8
+  },
+  {
+    "repo_name": "getsentry/sentry-capacitor",
+    "total_stars": 2,
+    "avg_recency_score": 12
+  },
+  {
+    "repo_name": "rakannimer/react-firebase",
+    "total_stars": 2,
+    "avg_recency_score": 27
+  },
+  {
+    "repo_name": "vuejs/awesome-vue",
+    "total_stars": 2,
+    "avg_recency_score": 6.5
+  },
+  {
+    "repo_name": "ardanlabs/gotraining",
+    "total_stars": 2,
+    "avg_recency_score": 8
+  },
+  {
+    "repo_name": "8427003/study-minix-os",
+    "total_stars": 2,
+    "avg_recency_score": 8
+  },
+  {
+    "repo_name": "dart-lang/appengine",
+    "total_stars": 2,
+    "avg_recency_score": 26
+  },
+  {
+    "repo_name": "systemd/systemd",
+    "total_stars": 2,
+    "avg_recency_score": 13
+  },
+  {
+    "repo_name": "devrelcollective/awesome-devrel",
+    "total_stars": 2,
+    "avg_recency_score": 9
+  },
+  {
+    "repo_name": "tailwindlabs/tailwindcss",
+    "total_stars": 2,
+    "avg_recency_score": 28
+  },
+  {
+    "repo_name": "npm/documentation",
+    "total_stars": 2,
+    "avg_recency_score": 8
+  },
+  {
+    "repo_name": "karan/Projects",
+    "total_stars": 2,
+    "avg_recency_score": 14
+  },
+  {
+    "repo_name": "jonyw4/pagarme-js-types",
+    "total_stars": 2,
+    "avg_recency_score": 14
+  },
+  {
+    "repo_name": "whyadamsalt/poly-dotfiles",
+    "total_stars": 2,
+    "avg_recency_score": 16
+  },
+  {
+    "repo_name": "awesome-streamers/awesome-streamerrc",
+    "total_stars": 2,
+    "avg_recency_score": 23
+  },
+  {
+    "repo_name": "idris92/EMS-commerce",
+    "total_stars": 2,
+    "avg_recency_score": 13
+  },
+  {
+    "repo_name": "anuraghazra/design-patterns-everyday",
+    "total_stars": 2,
+    "avg_recency_score": 8
+  },
+  {
+    "repo_name": "jmkoni/interview-questions",
+    "total_stars": 2,
+    "avg_recency_score": 12.5
+  },
+  {
+    "repo_name": "idealo/imagededup",
+    "total_stars": 2,
+    "avg_recency_score": 27
+  },
+  {
+    "repo_name": "rodrigo-brito/ninjabot",
+    "total_stars": 2,
+    "avg_recency_score": 9
+  },
+  {
+    "repo_name": "AnomalyInnovations/serverless-stack-com",
+    "total_stars": 2,
+    "avg_recency_score": 15
+  },
+  {
+    "repo_name": "JaeYeopHan/Interview_Question_for_Beginner",
+    "total_stars": 2,
+    "avg_recency_score": 9
+  },
+  {
+    "repo_name": "yangshun/front-end-interview-handbook",
+    "total_stars": 2,
+    "avg_recency_score": 10.5
+  },
+  {
+    "repo_name": "notrab/headless-dropshipping-starter",
+    "total_stars": 2,
+    "avg_recency_score": 3.5
+  },
+  {
+    "repo_name": "antoniandre/wave-ui",
+    "total_stars": 2,
+    "avg_recency_score": 26
+  },
+  {
+    "repo_name": "tomanagle/NextJS-NestJS-GraphQL-Starter",
+    "total_stars": 2,
+    "avg_recency_score": 5
+  },
+  {
+    "repo_name": "Zero-1729/soundplay",
+    "total_stars": 2,
+    "avg_recency_score": 6
+  },
+  {
+    "repo_name": "incrediblysecureinc/ctf-registration",
+    "total_stars": 2,
+    "avg_recency_score": 12
+  },
+  {
+    "repo_name": "jthegedus/svelte-adapter-firebase",
+    "total_stars": 2,
+    "avg_recency_score": 17
+  },
+  {
+    "repo_name": "dmnemec/copy_file_to_another_repo_action",
+    "total_stars": 2,
+    "avg_recency_score": 12
+  },
+  {
+    "repo_name": "nodejs/tooling",
+    "total_stars": 2,
+    "avg_recency_score": 22
+  },
+  {
+    "repo_name": "trimstray/the-book-of-secret-knowledge",
+    "total_stars": 2,
+    "avg_recency_score": 0
+  },
+  {
+    "repo_name": "FaisalUmair/udemy-downloader-gui",
+    "total_stars": 2,
+    "avg_recency_score": 10.5
+  },
+  {
+    "repo_name": "atom/biohazard-alert",
+    "total_stars": 2,
+    "avg_recency_score": 28
+  },
+  {
+    "repo_name": "Kamaleen0/pynightlight",
+    "total_stars": 2,
+    "avg_recency_score": 1
+  },
+  {
+    "repo_name": "inancgumus/learngo",
+    "total_stars": 2,
+    "avg_recency_score": 7
+  },
+  {
+    "repo_name": "omermorad/mockingbird",
+    "total_stars": 2,
+    "avg_recency_score": 4
+  },
+  {
+    "repo_name": "davatron5000/awesome-standalones",
+    "total_stars": 2,
+    "avg_recency_score": 13
+  },
+  {
+    "repo_name": "P0ssuidao/terraguard",
+    "total_stars": 2,
+    "avg_recency_score": 2
+  },
+  {
+    "repo_name": "Edinburgh-Genome-Foundry/bioprinter",
+    "total_stars": 2,
+    "avg_recency_score": 23
+  },
+  {
+    "repo_name": "jshttp/mime-db",
+    "total_stars": 2,
+    "avg_recency_score": 4
+  },
+  {
+    "repo_name": "justinpinkney/awesome-pretrained-stylegan2",
+    "total_stars": 2,
+    "avg_recency_score": 20
+  },
+  {
+    "repo_name": "automerge/automerge",
+    "total_stars": 2,
+    "avg_recency_score": 8
+  },
+  {
+    "repo_name": "go-gorm/gorm",
+    "total_stars": 2,
+    "avg_recency_score": 20
+  },
+  {
+    "repo_name": "vladflonta/magento2-store-switcher-url-fix",
+    "total_stars": 2,
+    "avg_recency_score": 26
+  },
+  {
+    "repo_name": "jivoi/awesome-osint",
+    "total_stars": 1,
+    "avg_recency_score": 22
+  },
+  {
+    "repo_name": "istio/istio",
+    "total_stars": 1,
+    "avg_recency_score": 9
+  },
+  {
+    "repo_name": "dimonga/OMNIA-AI-TRUCK",
+    "total_stars": 1,
+    "avg_recency_score": 28
+  },
+  {
+    "repo_name": "ang3lkar/pretty-diffs",
+    "total_stars": 1,
+    "avg_recency_score": 6
+  },
+  {
+    "repo_name": "piyalidas10/piyalidas10.github.io",
+    "total_stars": 1,
+    "avg_recency_score": 8
+  },
+  {
+    "repo_name": "cassidoo/next-netlify-blog-starter",
+    "total_stars": 1,
+    "avg_recency_score": 15
+  },
+  {
+    "repo_name": "BaseMax/CalculatorWeb",
+    "total_stars": 1,
+    "avg_recency_score": 4
+  },
+  {
+    "repo_name": "danba340/react-three-fiber-example",
+    "total_stars": 1,
+    "avg_recency_score": 15
+  },
+  {
+    "repo_name": "atroche/rust-headless-chrome",
+    "total_stars": 1,
+    "avg_recency_score": 28
+  },
+  {
+    "repo_name": "fraol0912/drawer",
+    "total_stars": 1,
+    "avg_recency_score": 18
+  },
+  {
+    "repo_name": "microsoft/vscode-dev-containers",
+    "total_stars": 1,
+    "avg_recency_score": 20
+  },
+  {
+    "repo_name": "Lahirutech/three.js",
+    "total_stars": 1,
+    "avg_recency_score": 27
+  },
+  {
+    "repo_name": "jeffreyvr/tailpress",
+    "total_stars": 1,
+    "avg_recency_score": 2
+  },
+  {
+    "repo_name": "WordPress/wordpress-develop",
+    "total_stars": 1,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "trailheadapps/lwc-recipes",
+    "total_stars": 1,
+    "avg_recency_score": 0
+  },
+  {
+    "repo_name": "graphiti-api/graphiti-rails",
+    "total_stars": 1,
+    "avg_recency_score": 27
+  },
+  {
+    "repo_name": "razorpay/razorpay-dot-net",
+    "total_stars": 1,
+    "avg_recency_score": 14
+  },
+  {
+    "repo_name": "jamesshore/lets_play_tdd",
+    "total_stars": 1,
+    "avg_recency_score": 17
+  },
+  {
+    "repo_name": "pranshudobhal/quiz-master",
+    "total_stars": 1,
+    "avg_recency_score": 2
+  },
+  {
+    "repo_name": "fraol0912/edumine-starter",
+    "total_stars": 1,
+    "avg_recency_score": 9
+  },
+  {
+    "repo_name": "kristopolous/BOOTSTRA.386",
+    "total_stars": 1,
+    "avg_recency_score": 1
+  },
+  {
+    "repo_name": "sass/sass",
+    "total_stars": 1,
+    "avg_recency_score": 18
+  },
+  {
+    "repo_name": "j-dogcoder/repo-template",
+    "total_stars": 1,
+    "avg_recency_score": 1
+  },
+  {
+    "repo_name": "modulz/stitches",
+    "total_stars": 1,
+    "avg_recency_score": 9
+  },
+  {
+    "repo_name": "NdR91/NdR-PhoneUI",
+    "total_stars": 1,
+    "avg_recency_score": 2
+  },
+  {
+    "repo_name": "HA6Bots/Automatic-Youtube-Reddit-Text-To-Speech-Video-Generator-and-Uploader",
+    "total_stars": 1,
+    "avg_recency_score": 3
+  },
+  {
+    "repo_name": "ErikCH/DevYouTubeList",
+    "total_stars": 1,
+    "avg_recency_score": 5
+  },
+  {
+    "repo_name": "nextauthjs/next-auth",
+    "total_stars": 1,
+    "avg_recency_score": 27
+  },
+  {
+    "repo_name": "LEARNAcademy/Syllabus",
+    "total_stars": 1,
+    "avg_recency_score": 10
+  },
+  {
+    "repo_name": "Mimetis/Dotmim.Sync",
+    "total_stars": 1,
+    "avg_recency_score": 19
+  },
+  {
+    "repo_name": "vimwiki/vimwiki",
+    "total_stars": 1,
+    "avg_recency_score": 26
+  },
+  {
+    "repo_name": "fffaraz/awesome-cpp",
+    "total_stars": 1,
+    "avg_recency_score": 3
+  },
+  {
+    "repo_name": "udberg/udberg",
+    "total_stars": 1,
+    "avg_recency_score": 27
+  },
+  {
+    "repo_name": "thesayyn/protoc-gen-ts",
+    "total_stars": 1,
+    "avg_recency_score": 28
+  },
+  {
+    "repo_name": "helins/wasm.cljc",
+    "total_stars": 1,
+    "avg_recency_score": 0
+  },
+  {
+    "repo_name": "cornflourblue/angular-10-custom-modal",
+    "total_stars": 1,
+    "avg_recency_score": 16
+  },
+  {
+    "repo_name": "akosbalasko/yarle",
+    "total_stars": 1,
+    "avg_recency_score": 27
+  },
+  {
+    "repo_name": "AllThingsSmitty/css-protips",
+    "total_stars": 1,
+    "avg_recency_score": 19
+  },
+  {
+    "repo_name": "aullman/opentok-layout-js",
+    "total_stars": 1,
+    "avg_recency_score": 24
+  },
+  {
+    "repo_name": "lukasoppermann/design-tokens",
+    "total_stars": 1,
+    "avg_recency_score": 13
+  },
+  {
+    "repo_name": "phuoc-ng/html-dom",
+    "total_stars": 1,
+    "avg_recency_score": 1
+  },
+  {
+    "repo_name": "gatsbyjs/store.gatsbyjs.org",
+    "total_stars": 1,
+    "avg_recency_score": 27
+  },
+  {
+    "repo_name": "input-output-hk/cardano-documentation",
+    "total_stars": 1,
+    "avg_recency_score": 1
+  },
+  {
+    "repo_name": "tiangolo/fastapi",
+    "total_stars": 1,
+    "avg_recency_score": 6
+  },
+  {
+    "repo_name": "cometkim/asdf-grain",
+    "total_stars": 1,
+    "avg_recency_score": 27
+  },
+  {
+    "repo_name": "krisk/Fuse",
+    "total_stars": 1,
+    "avg_recency_score": 28
+  },
+  {
+    "repo_name": "py-moneyed/py-moneyed",
+    "total_stars": 1,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "teamcapybara/capybara",
+    "total_stars": 1,
+    "avg_recency_score": 29
+  },
+  {
+    "repo_name": "coryhouse/timeless-skills",
+    "total_stars": 1,
+    "avg_recency_score": 9
+  },
+  {
+    "repo_name": "jonls/redshift",
+    "total_stars": 1,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "spicygreenbook/greenbook-app",
+    "total_stars": 1,
+    "avg_recency_score": 2
+  },
+  {
+    "repo_name": "justadudewhohacks/face-api.js",
+    "total_stars": 1,
+    "avg_recency_score": 16
+  },
+  {
+    "repo_name": "SchoolOfFreelancing/Docker-Child-Protection",
+    "total_stars": 1,
+    "avg_recency_score": 27
+  },
+  {
+    "repo_name": "rmzi/cyoa",
+    "total_stars": 1,
+    "avg_recency_score": 7
+  },
+  {
+    "repo_name": "luraproject/lura",
+    "total_stars": 1,
+    "avg_recency_score": 28
+  },
+  {
+    "repo_name": "okTurtles/group-income-simple",
+    "total_stars": 1,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "jwalter/fivexfive",
+    "total_stars": 1,
+    "avg_recency_score": 9
+  },
+  {
+    "repo_name": "ganqqwerty/123-Essential-JavaScript-Interview-Questions",
+    "total_stars": 1,
+    "avg_recency_score": 23
+  },
+  {
+    "repo_name": "lifting-bits/mcsema",
+    "total_stars": 1,
+    "avg_recency_score": 19
+  },
+  {
+    "repo_name": "serhii-londar/open-source-mac-os-apps",
+    "total_stars": 1,
+    "avg_recency_score": 19
+  },
+  {
+    "repo_name": "hosseinmoein/DataFrame",
+    "total_stars": 1,
+    "avg_recency_score": 12
+  },
+  {
+    "repo_name": "nprapps/lunchbox",
+    "total_stars": 1,
+    "avg_recency_score": 14
+  },
+  {
+    "repo_name": "learning-zone/javascript-interview-questions",
+    "total_stars": 1,
+    "avg_recency_score": 7
+  },
+  {
+    "repo_name": "vivirenremoto/squat_captcha",
+    "total_stars": 1,
+    "avg_recency_score": 25
+  },
+  {
+    "repo_name": "kbeckmann/pergola_projects",
+    "total_stars": 1,
+    "avg_recency_score": 27
+  },
+  {
+    "repo_name": "LambdaSchool/build-week-scaffolding-node",
+    "total_stars": 1,
+    "avg_recency_score": 1
+  },
+  {
+    "repo_name": "LEARNAcademy/jumpstart",
+    "total_stars": 1,
+    "avg_recency_score": 6
+  },
+  {
+    "repo_name": "FordLabs/retroquest",
+    "total_stars": 1,
+    "avg_recency_score": 1
+  },
+  {
+    "repo_name": "zostera/django-bootstrap5",
+    "total_stars": 1,
+    "avg_recency_score": 7
+  },
+  {
+    "repo_name": "grails/grails-core",
+    "total_stars": 1,
+    "avg_recency_score": 20
+  },
+  {
+    "repo_name": "ryanbonial/car-gallery",
+    "total_stars": 1,
+    "avg_recency_score": 16
+  },
+  {
+    "repo_name": "kdash-rs/kdash",
+    "total_stars": 1,
+    "avg_recency_score": 3
+  },
+  {
+    "repo_name": "python/mypy",
+    "total_stars": 1,
+    "avg_recency_score": 8
+  },
+  {
+    "repo_name": "fraol0912/rectangle_animation",
+    "total_stars": 1,
+    "avg_recency_score": 16
+  },
+  {
+    "repo_name": "mirage/ocaml-github",
+    "total_stars": 1,
+    "avg_recency_score": 26
+  },
+  {
+    "repo_name": "hkaur008/microsoft-engage-project",
+    "total_stars": 1,
+    "avg_recency_score": 8
+  },
+  {
+    "repo_name": "launchbadge/sqlx",
+    "total_stars": 1,
+    "avg_recency_score": 2
+  },
+  {
+    "repo_name": "Jghaddad123/CPSC-362",
+    "total_stars": 1,
+    "avg_recency_score": 17
+  },
+  {
+    "repo_name": "MattMarquise/Lifestyle-Blog-Shop-Page",
+    "total_stars": 1,
+    "avg_recency_score": 14
+  },
+  {
+    "repo_name": "KenSikes/data_science_bootcamp",
+    "total_stars": 1,
+    "avg_recency_score": 2
+  },
+  {
+    "repo_name": "infosecstreams/infosecstreams.github.io",
+    "total_stars": 1,
+    "avg_recency_score": 27
+  },
+  {
+    "repo_name": "facebook/create-react-app",
+    "total_stars": 1,
+    "avg_recency_score": 8
+  },
+  {
+    "repo_name": "asdf-vm/asdf-plugin-template",
+    "total_stars": 1,
+    "avg_recency_score": 28
+  },
+  {
+    "repo_name": "fedecalendino/spotify-data-reader",
+    "total_stars": 1,
+    "avg_recency_score": 17
+  },
+  {
+    "repo_name": "aashrafh/Mozart",
+    "total_stars": 1,
+    "avg_recency_score": 28
+  },
+  {
+    "repo_name": "pacocoursey/next-themes",
+    "total_stars": 1,
+    "avg_recency_score": 18
+  },
+  {
+    "repo_name": "XAMPPRocky/tokei",
+    "total_stars": 1,
+    "avg_recency_score": 24
+  },
+  {
+    "repo_name": "pointfreeco/swift-custom-dump",
+    "total_stars": 1,
+    "avg_recency_score": 0
+  },
+  {
+    "repo_name": "ganning127/catti",
+    "total_stars": 1,
+    "avg_recency_score": 3
+  },
+  {
+    "repo_name": "bradtraversy/react-crash-2021",
+    "total_stars": 1,
+    "avg_recency_score": 21
+  },
+  {
+    "repo_name": "jepser/site-contentful",
+    "total_stars": 1,
+    "avg_recency_score": 20
+  },
+  {
+    "repo_name": "dwaipayan05/dwaipayan05",
+    "total_stars": 1,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "go-faast/faast-web",
+    "total_stars": 1,
+    "avg_recency_score": 15
+  },
+  {
+    "repo_name": "citusdata/citus",
+    "total_stars": 1,
+    "avg_recency_score": 0
+  },
+  {
+    "repo_name": "SanchitaMishra170676/To-Do-Blockchain",
+    "total_stars": 1,
+    "avg_recency_score": 10
+  },
+  {
+    "repo_name": "nuxt-community/awesome-nuxt",
+    "total_stars": 1,
+    "avg_recency_score": 7
+  },
+  {
+    "repo_name": "abrarsheikhsony/SFDC-custom-apex-rest-webservice",
+    "total_stars": 1,
+    "avg_recency_score": 4
+  },
+  {
+    "repo_name": "serradura/u-case",
+    "total_stars": 1,
+    "avg_recency_score": 10
+  },
+  {
+    "repo_name": "danmar/cppcheck",
+    "total_stars": 1,
+    "avg_recency_score": 27
+  },
+  {
+    "repo_name": "taylorbryant/jekyll-starter-tailwind",
+    "total_stars": 1,
+    "avg_recency_score": 8
+  },
+  {
+    "repo_name": "Renovamen/midgard",
+    "total_stars": 1,
+    "avg_recency_score": 25
+  },
+  {
+    "repo_name": "lucydsl/liblucy",
+    "total_stars": 1,
+    "avg_recency_score": 4
+  },
+  {
+    "repo_name": "jbagaresgaray/ionic-react-coffee-vending-app",
+    "total_stars": 1,
+    "avg_recency_score": 2
+  },
+  {
+    "repo_name": "amino19/health-tracker",
+    "total_stars": 1,
+    "avg_recency_score": 5
+  },
+  {
+    "repo_name": "cloudevents/spec",
+    "total_stars": 1,
+    "avg_recency_score": 18
+  },
+  {
+    "repo_name": "kris-hansen/notion-cli",
+    "total_stars": 1,
+    "avg_recency_score": 25
+  },
+  {
+    "repo_name": "resque/resque",
+    "total_stars": 1,
+    "avg_recency_score": 19
+  },
+  {
+    "repo_name": "TheAlgorithms/Go",
+    "total_stars": 1,
+    "avg_recency_score": 9
+  },
+  {
+    "repo_name": "Amoghtech/YTDownloader",
+    "total_stars": 1,
+    "avg_recency_score": 2
+  },
+  {
+    "repo_name": "let-unimi/liblet",
+    "total_stars": 1,
+    "avg_recency_score": 6
+  },
+  {
+    "repo_name": "Defi-Cartel/salmonella",
+    "total_stars": 1,
+    "avg_recency_score": 13
+  },
+  {
+    "repo_name": "nukeop/nuclear",
+    "total_stars": 1,
+    "avg_recency_score": 7
+  },
+  {
+    "repo_name": "jquense/sass-tailwind-functions",
+    "total_stars": 1,
+    "avg_recency_score": 3
+  },
+  {
+    "repo_name": "kingoflolz/mesh-transformer-jax",
+    "total_stars": 1,
+    "avg_recency_score": 19
+  },
+  {
+    "repo_name": "jordanliu/made-in-jamaica",
+    "total_stars": 1,
+    "avg_recency_score": 18
+  },
+  {
+    "repo_name": "WebReflection/flatted",
+    "total_stars": 1,
+    "avg_recency_score": 15
+  },
+  {
+    "repo_name": "mongo-express/mongo-express",
+    "total_stars": 1,
+    "avg_recency_score": 8
+  },
+  {
+    "repo_name": "kentcdodds/react-fundamentals",
+    "total_stars": 1,
+    "avg_recency_score": 3
+  },
+  {
+    "repo_name": "hhhrrrttt222111/Ethical-Hacking-Tools",
+    "total_stars": 1,
+    "avg_recency_score": 6
+  },
+  {
+    "repo_name": "bikenik/alfred-anki",
+    "total_stars": 1,
+    "avg_recency_score": 3
+  },
+  {
+    "repo_name": "SkyTech6/INATBot",
+    "total_stars": 1,
+    "avg_recency_score": 1
+  },
+  {
+    "repo_name": "purnima143/Kurakoo",
+    "total_stars": 1,
+    "avg_recency_score": 19
+  },
+  {
+    "repo_name": "bregman-arie/devops-exercises",
+    "total_stars": 1,
+    "avg_recency_score": 0
+  },
+  {
+    "repo_name": "nim-lang/nimforum",
+    "total_stars": 1,
+    "avg_recency_score": 3
+  },
+  {
+    "repo_name": "eta-dev/eta",
+    "total_stars": 1,
+    "avg_recency_score": 28
+  },
+  {
+    "repo_name": "eriklindernoren/ML-From-Scratch",
+    "total_stars": 1,
+    "avg_recency_score": 19
+  },
+  {
+    "repo_name": "brookhong/Surfingkeys",
+    "total_stars": 1,
+    "avg_recency_score": 17
+  },
+  {
+    "repo_name": "TBens/lovelace-ui-minimalist",
+    "total_stars": 1,
+    "avg_recency_score": 23
+  },
+  {
+    "repo_name": "Kushal997-das/Project-Guidance",
+    "total_stars": 1,
+    "avg_recency_score": 19
+  },
+  {
+    "repo_name": "armosec/kubescape",
+    "total_stars": 1,
+    "avg_recency_score": 17
+  },
+  {
+    "repo_name": "romabash/sudoku-solver",
+    "total_stars": 1,
+    "avg_recency_score": 21
+  },
+  {
+    "repo_name": "prisma-labs/bema",
+    "total_stars": 1,
+    "avg_recency_score": 21
+  },
+  {
+    "repo_name": "iamcryptoki/snowden-archive",
+    "total_stars": 1,
+    "avg_recency_score": 8
+  },
+  {
+    "repo_name": "sedninja/ldap-server",
+    "total_stars": 1,
+    "avg_recency_score": 27
+  },
+  {
+    "repo_name": "alpha-miner/Finance-Python",
+    "total_stars": 1,
+    "avg_recency_score": 20
+  },
+  {
+    "repo_name": "geohot/tinygrad",
+    "total_stars": 1,
+    "avg_recency_score": 27
+  },
+  {
+    "repo_name": "fbdevelopercircles/open-source-edu-bot",
+    "total_stars": 1,
+    "avg_recency_score": 19
+  },
+  {
+    "repo_name": "vercel/swr",
+    "total_stars": 1,
+    "avg_recency_score": 16
+  },
+  {
+    "repo_name": "fullcalendar/fullcalendar",
+    "total_stars": 1,
+    "avg_recency_score": 7
+  },
+  {
+    "repo_name": "rmurphey/js-assessment",
+    "total_stars": 1,
+    "avg_recency_score": 2
+  },
+  {
+    "repo_name": "kihosk/kiosk-raspberry",
+    "total_stars": 1,
+    "avg_recency_score": 1
+  },
+  {
+    "repo_name": "commclassroom/mobileapp",
+    "total_stars": 1,
+    "avg_recency_score": 0
+  },
+  {
+    "repo_name": "iberianpig/fusuma",
+    "total_stars": 1,
+    "avg_recency_score": 18
+  },
+  {
+    "repo_name": "victor-perez/nuxt-helmet",
+    "total_stars": 1,
+    "avg_recency_score": 20
+  },
+  {
+    "repo_name": "wepublish/wepublish",
+    "total_stars": 1,
+    "avg_recency_score": 8
+  },
+  {
+    "repo_name": "cizixs/awesome-raft",
+    "total_stars": 1,
+    "avg_recency_score": 18
+  },
+  {
+    "repo_name": "aaronpk/webmention.io",
+    "total_stars": 1,
+    "avg_recency_score": 28
+  },
+  {
+    "repo_name": "mikeal/bent",
+    "total_stars": 1,
+    "avg_recency_score": 29
+  },
+  {
+    "repo_name": "sanjoli30/ExpandingCards",
+    "total_stars": 1,
+    "avg_recency_score": 6
+  },
+  {
+    "repo_name": "dwaipayan05/website",
+    "total_stars": 1,
+    "avg_recency_score": 20
+  },
+  {
+    "repo_name": "Deveshb15/real-twitter-banner",
+    "total_stars": 1,
+    "avg_recency_score": 0
+  },
+  {
+    "repo_name": "c9/core",
+    "total_stars": 1,
+    "avg_recency_score": 7
+  },
+  {
+    "repo_name": "rstacruz/nprogress",
+    "total_stars": 1,
+    "avg_recency_score": 26
+  },
+  {
+    "repo_name": "ryanburgess/engineer-manager",
+    "total_stars": 1,
+    "avg_recency_score": 3
+  },
+  {
+    "repo_name": "leemunroe/responsive-html-email-template",
+    "total_stars": 1,
+    "avg_recency_score": 6
+  },
+  {
+    "repo_name": "learning-zone/nodejs-interview-questions",
+    "total_stars": 1,
+    "avg_recency_score": 13
+  },
+  {
+    "repo_name": "Tom-Wyszkowski/Python",
+    "total_stars": 1,
+    "avg_recency_score": 0
+  },
+  {
+    "repo_name": "facebook/facebook-ios-sdk",
+    "total_stars": 1,
+    "avg_recency_score": 22
+  },
+  {
+    "repo_name": "HotPotatoC/twitter-clone",
+    "total_stars": 1,
+    "avg_recency_score": 7
+  },
+  {
+    "repo_name": "qdm12/godevcontainer",
+    "total_stars": 1,
+    "avg_recency_score": 14
+  },
+  {
+    "repo_name": "JsonCSharpClassGenerator/JsonCSharpClassGenerator",
+    "total_stars": 1,
+    "avg_recency_score": 15
+  },
+  {
+    "repo_name": "octoherd/script-close-renovate-dashboard-issues",
+    "total_stars": 1,
+    "avg_recency_score": 29
+  },
+  {
+    "repo_name": "gndelia/codemod-replace-react-fc-typescript",
+    "total_stars": 1,
+    "avg_recency_score": 18
+  },
+  {
+    "repo_name": "eganwall/FatFingerHelperBot",
+    "total_stars": 1,
+    "avg_recency_score": 14
+  },
+  {
+    "repo_name": "ohansemmanuel/advanced-react-patterns-ultrasimplified",
+    "total_stars": 1,
+    "avg_recency_score": 14
+  },
+  {
+    "repo_name": "icons-pack/react-simple-icons",
+    "total_stars": 1,
+    "avg_recency_score": 4
+  },
+  {
+    "repo_name": "mds/sa",
+    "total_stars": 1,
+    "avg_recency_score": 28
+  },
+  {
+    "repo_name": "GorvGoyl/Clone-Wars",
+    "total_stars": 1,
+    "avg_recency_score": 25
+  },
+  {
+    "repo_name": "merit-gem/merit",
+    "total_stars": 1,
+    "avg_recency_score": 14
+  },
+  {
+    "repo_name": "piotrwitek/react-redux-typescript-guide",
+    "total_stars": 1,
+    "avg_recency_score": 3
+  },
+  {
+    "repo_name": "acekyd/made-in-nigeria",
+    "total_stars": 1,
+    "avg_recency_score": 18
+  },
+  {
+    "repo_name": "WomenWhoCode/wwcsf-algos",
+    "total_stars": 1,
+    "avg_recency_score": 0
+  },
+  {
+    "repo_name": "remotemobprogramming/mob",
+    "total_stars": 1,
+    "avg_recency_score": 4
+  },
+  {
+    "repo_name": "CodingMoore/soil-ent-green-python",
+    "total_stars": 1,
+    "avg_recency_score": 27
+  },
+  {
+    "repo_name": "thlorenz/v8-snapshot",
+    "total_stars": 1,
+    "avg_recency_score": 24
+  },
+  {
+    "repo_name": "koreader/koreader",
+    "total_stars": 1,
+    "avg_recency_score": 10
+  },
+  {
+    "repo_name": "charliegerard/gaze-detection",
+    "total_stars": 1,
+    "avg_recency_score": 7
+  },
+  {
+    "repo_name": "arbazkiraak/SmartContractLearning",
+    "total_stars": 1,
+    "avg_recency_score": 25
+  },
+  {
+    "repo_name": "sandrinodimattia/nextjs-auth0-example",
+    "total_stars": 1,
+    "avg_recency_score": 19
+  },
+  {
+    "repo_name": "burkeholland/express-react-starter",
+    "total_stars": 1,
+    "avg_recency_score": 8
+  },
+  {
+    "repo_name": "pockethub/PocketHub",
+    "total_stars": 1,
+    "avg_recency_score": 25
+  },
+  {
+    "repo_name": "npm/cli",
+    "total_stars": 1,
+    "avg_recency_score": 2
+  },
+  {
+    "repo_name": "evilarceus/sp-playcount-librespot",
+    "total_stars": 1,
+    "avg_recency_score": 2
+  },
+  {
+    "repo_name": "artano-io/artano",
+    "total_stars": 1,
+    "avg_recency_score": 2
+  },
+  {
+    "repo_name": "BaseMax/ExtractWord",
+    "total_stars": 1,
+    "avg_recency_score": 13
+  },
+  {
+    "repo_name": "paololeonardi/WaterfallGrid",
+    "total_stars": 1,
+    "avg_recency_score": 28
+  },
+  {
+    "repo_name": "ingram-projects/animxyz",
+    "total_stars": 1,
+    "avg_recency_score": 13
+  },
+  {
+    "repo_name": "GokuMohandas/MadeWithML",
+    "total_stars": 1,
+    "avg_recency_score": 6
+  },
+  {
+    "repo_name": "biylda/WhereYouGo",
+    "total_stars": 1,
+    "avg_recency_score": 14
+  },
+  {
+    "repo_name": "dwaipayan05/wayback-machine-webextension",
+    "total_stars": 1,
+    "avg_recency_score": 26
+  },
+  {
+    "repo_name": "kris-nova/hack",
+    "total_stars": 1,
+    "avg_recency_score": 27
+  },
+  {
+    "repo_name": "fraol0912/optionem",
+    "total_stars": 1,
+    "avg_recency_score": 29
+  },
+  {
+    "repo_name": "Rohithgilla12/redwood-url-shortner",
+    "total_stars": 1,
+    "avg_recency_score": 1
+  },
+  {
+    "repo_name": "fhkingma/bitswap",
+    "total_stars": 1,
+    "avg_recency_score": 8
+  },
+  {
+    "repo_name": "bobbyiliev/introduction-to-bash-scripting",
+    "total_stars": 1,
+    "avg_recency_score": 16
+  },
+  {
+    "repo_name": "twilio/starter-python",
+    "total_stars": 1,
+    "avg_recency_score": 4
+  },
+  {
+    "repo_name": "kelektiv/node-cron",
+    "total_stars": 1,
+    "avg_recency_score": 0
+  },
+  {
+    "repo_name": "octoherd/script-create-repositories-from-script-folders",
+    "total_stars": 1,
+    "avg_recency_score": 28
+  },
+  {
+    "repo_name": "timescale/timescaledb",
+    "total_stars": 1,
+    "avg_recency_score": 7
+  },
+  {
+    "repo_name": "google/flutter-desktop-embedding",
+    "total_stars": 1,
+    "avg_recency_score": 6
+  },
+  {
+    "repo_name": "Jucian0/recoil-example",
+    "total_stars": 1,
+    "avg_recency_score": 28
+  },
+  {
+    "repo_name": "alexandresanlim/Badges4-README.md-Profile",
+    "total_stars": 1,
+    "avg_recency_score": 13
+  },
+  {
+    "repo_name": "fraol0912/factorem",
+    "total_stars": 1,
+    "avg_recency_score": 27
+  },
+  {
+    "repo_name": "Charlieras262/BeatPlayer",
+    "total_stars": 1,
+    "avg_recency_score": 3
+  },
+  {
+    "repo_name": "rajkissu/brainfuck",
+    "total_stars": 1,
+    "avg_recency_score": 24
+  },
+  {
+    "repo_name": "alephdata/aleph",
+    "total_stars": 1,
+    "avg_recency_score": 1
+  },
+  {
+    "repo_name": "arslanbilal/git-cheat-sheet",
+    "total_stars": 1,
+    "avg_recency_score": 2
+  },
+  {
+    "repo_name": "reptilex/tesla-style-solar-power-card",
+    "total_stars": 1,
+    "avg_recency_score": 18
+  },
+  {
+    "repo_name": "maxcountryman/flask-login",
+    "total_stars": 1,
+    "avg_recency_score": 25
+  },
+  {
+    "repo_name": "xero/startpage",
+    "total_stars": 1,
+    "avg_recency_score": 2
+  },
+  {
+    "repo_name": "thundernest/import-export-tools-ng",
+    "total_stars": 1,
+    "avg_recency_score": 13
+  },
+  {
+    "repo_name": "kudulab/dojo",
+    "total_stars": 1,
+    "avg_recency_score": 6
+  },
+  {
+    "repo_name": "clintjedwards/basecoat",
+    "total_stars": 1,
+    "avg_recency_score": 20
+  },
+  {
+    "repo_name": "carloscuesta/gitmoji",
+    "total_stars": 1,
+    "avg_recency_score": 1
+  },
+  {
+    "repo_name": "AndrewKishino/sotez",
+    "total_stars": 1,
+    "avg_recency_score": 8
+  },
+  {
+    "repo_name": "rahuldkjain/github-profile-readme-generator",
+    "total_stars": 1,
+    "avg_recency_score": 24
+  },
+  {
+    "repo_name": "SidHacksCommunity/support",
+    "total_stars": 1,
+    "avg_recency_score": 17
+  },
+  {
+    "repo_name": "kmonad/kmonad",
+    "total_stars": 1,
+    "avg_recency_score": 24
+  },
+  {
+    "repo_name": "openware/opendax",
+    "total_stars": 1,
+    "avg_recency_score": 17
+  },
+  {
+    "repo_name": "christopheradams/elixir_style_guide",
+    "total_stars": 1,
+    "avg_recency_score": 16
+  },
+  {
+    "repo_name": "vuesomedev/awesome-vue-3",
+    "total_stars": 1,
+    "avg_recency_score": 1
+  },
+  {
+    "repo_name": "sButtons/sbuttons",
+    "total_stars": 1,
+    "avg_recency_score": 23
+  },
+  {
+    "repo_name": "toastdotdev/toast",
+    "total_stars": 1,
+    "avg_recency_score": 4
+  },
+  {
+    "repo_name": "pi-hole/pi-hole",
+    "total_stars": 1,
+    "avg_recency_score": 29
+  },
+  {
+    "repo_name": "dotellie/nestjs-graphql-pagination",
+    "total_stars": 1,
+    "avg_recency_score": 0
+  },
+  {
+    "repo_name": "akshay9677/reactor-gen",
+    "total_stars": 1,
+    "avg_recency_score": 7
+  },
+  {
+    "repo_name": "trekhleb/learn-python",
+    "total_stars": 1,
+    "avg_recency_score": 8
+  },
+  {
+    "repo_name": "tvaneerd/cpp17_in_TTs",
+    "total_stars": 1,
+    "avg_recency_score": 0
+  },
+  {
+    "repo_name": "20BBrown14/digital-terrain-mc-js",
+    "total_stars": 1,
+    "avg_recency_score": 17
+  },
+  {
+    "repo_name": "xi/babelacc",
+    "total_stars": 1,
+    "avg_recency_score": 23
+  },
+  {
+    "repo_name": "jwalter/garnisonen",
+    "total_stars": 1,
+    "avg_recency_score": 13
+  },
+  {
+    "repo_name": "borisowsky/next-advanced-apollo-starter",
+    "total_stars": 1,
+    "avg_recency_score": 2
+  },
+  {
+    "repo_name": "udberg/RailsFullApp",
+    "total_stars": 1,
+    "avg_recency_score": 14
+  },
+  {
+    "repo_name": "vercel/serve",
+    "total_stars": 1,
+    "avg_recency_score": 1
+  },
+  {
+    "repo_name": "lowercasename/gathio",
+    "total_stars": 1,
+    "avg_recency_score": 15
+  },
+  {
+    "repo_name": "gerardog/gsudo",
+    "total_stars": 1,
+    "avg_recency_score": 1
+  },
+  {
+    "repo_name": "dwyl/learn-api-design",
+    "total_stars": 1,
+    "avg_recency_score": 8
+  },
+  {
+    "repo_name": "facebook/facebook-android-sdk",
+    "total_stars": 1,
+    "avg_recency_score": 21
+  },
+  {
+    "repo_name": "oskros/MF_run_counter",
+    "total_stars": 1,
+    "avg_recency_score": 6
+  },
+  {
+    "repo_name": "whitep4nth3r/randomcodegenerator.lol",
+    "total_stars": 1,
+    "avg_recency_score": 4
+  },
+  {
+    "repo_name": "policy-hub/policy-hub-cli",
+    "total_stars": 1,
+    "avg_recency_score": 10
+  },
+  {
+    "repo_name": "teezzan/ohtp",
+    "total_stars": 1,
+    "avg_recency_score": 3
+  },
+  {
+    "repo_name": "fruxc/Distributed-Computing-And-Cloud-Computing",
+    "total_stars": 1,
+    "avg_recency_score": 0
+  },
+  {
+    "repo_name": "puneetsl/lotion",
+    "total_stars": 1,
+    "avg_recency_score": 16
+  },
+  {
+    "repo_name": "30-seconds/30-seconds-of-css",
+    "total_stars": 1,
+    "avg_recency_score": 2
+  },
+  {
+    "repo_name": "Hammerspoon/hammerspoon",
+    "total_stars": 1,
+    "avg_recency_score": 8
+  },
+  {
+    "repo_name": "bradtraversy/ui_components",
+    "total_stars": 1,
+    "avg_recency_score": 7
+  },
+  {
+    "repo_name": "dwaipayan05/BBLec2Pdf",
+    "total_stars": 1,
+    "avg_recency_score": 4
+  },
+  {
+    "repo_name": "localtunnel/localtunnel",
+    "total_stars": 1,
+    "avg_recency_score": 18
+  },
+  {
+    "repo_name": "jwalter/zombiedicejava",
+    "total_stars": 1,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "Mogakamo/Digital-Clock",
+    "total_stars": 1,
+    "avg_recency_score": 10
+  },
+  {
+    "repo_name": "elizabethsiegle/twilio-video-mask-ml5",
+    "total_stars": 1,
+    "avg_recency_score": 2
+  },
+  {
+    "repo_name": "ZennerIoT/element-parsers",
+    "total_stars": 1,
+    "avg_recency_score": 15
+  },
+  {
+    "repo_name": "jedisct1/libsodium",
+    "total_stars": 1,
+    "avg_recency_score": 27
+  },
+  {
+    "repo_name": "davidteren/rails_6_github_template",
+    "total_stars": 1,
+    "avg_recency_score": 4
+  },
+  {
+    "repo_name": "akobepeter/learnGit",
+    "total_stars": 1,
+    "avg_recency_score": 4
+  },
+  {
+    "repo_name": "saschagrunert/kubernix",
+    "total_stars": 1,
+    "avg_recency_score": 13
+  },
+  {
+    "repo_name": "haltu/muuri",
+    "total_stars": 1,
+    "avg_recency_score": 24
+  },
+  {
+    "repo_name": "wildmaples/minimal-ruby-project",
+    "total_stars": 1,
+    "avg_recency_score": 1
+  },
+  {
+    "repo_name": "xAranaktu/PES-2021-Cheat-Table",
+    "total_stars": 1,
+    "avg_recency_score": 18
+  },
+  {
+    "repo_name": "nucleic/enaml",
+    "total_stars": 1,
+    "avg_recency_score": 5
+  },
+  {
+    "repo_name": "upgrad-edu/Solidity-Exercise-Solutions",
+    "total_stars": 1,
+    "avg_recency_score": 14
+  },
+  {
+    "repo_name": "s-kngstn/wu-loremipsum",
+    "total_stars": 1,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "octoherd/script-sync-branch-protections",
+    "total_stars": 1,
+    "avg_recency_score": 22
+  },
+  {
+    "repo_name": "sarthakvarshney8081/dockerlabs",
+    "total_stars": 1,
+    "avg_recency_score": 1
+  },
+  {
+    "repo_name": "altangent/ccxws",
+    "total_stars": 1,
+    "avg_recency_score": 21
+  },
+  {
+    "repo_name": "opensearch-project/OpenSearch",
+    "total_stars": 1,
+    "avg_recency_score": 9
+  },
+  {
+    "repo_name": "rubyforgood/voices-of-consent",
+    "total_stars": 1,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "busyloop/lolcat",
+    "total_stars": 1,
+    "avg_recency_score": 16
+  },
+  {
+    "repo_name": "brettmillerb/sqlpackage-docker",
+    "total_stars": 1,
+    "avg_recency_score": 22
+  },
+  {
+    "repo_name": "DistributedClocks/shiviz",
+    "total_stars": 1,
+    "avg_recency_score": 2
+  },
+  {
+    "repo_name": "jarun/bcal",
+    "total_stars": 1,
+    "avg_recency_score": 19
+  },
+  {
+    "repo_name": "webview/webview",
+    "total_stars": 1,
+    "avg_recency_score": 12
+  },
+  {
+    "repo_name": "Paol-imi/muuri-react",
+    "total_stars": 1,
+    "avg_recency_score": 18
+  },
+  {
+    "repo_name": "oscafrica/chapter-leads-hub",
+    "total_stars": 1,
+    "avg_recency_score": 4
+  },
+  {
+    "repo_name": "joaocarmo/vcard-creator",
+    "total_stars": 1,
+    "avg_recency_score": 6
+  },
+  {
+    "repo_name": "malgamves/CommunityWriterPrograms",
+    "total_stars": 1,
+    "avg_recency_score": 3
+  },
+  {
+    "repo_name": "sanderdebr/react-usereducer-context-tutorial",
+    "total_stars": 1,
+    "avg_recency_score": 14
+  },
+  {
+    "repo_name": "nexe/nexe",
+    "total_stars": 1,
+    "avg_recency_score": 13
+  },
+  {
+    "repo_name": "there4/markdown-resume",
+    "total_stars": 1,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "UsamaKashif/CambridgePastPapersDownloader",
+    "total_stars": 1,
+    "avg_recency_score": 13
+  },
+  {
+    "repo_name": "khang-nd/DEV-stats",
+    "total_stars": 1,
+    "avg_recency_score": 6
+  },
+  {
+    "repo_name": "tuchk4/awesome-create-react-app",
+    "total_stars": 1,
+    "avg_recency_score": 18
+  },
+  {
+    "repo_name": "jcoleman/JCAutocompletingSearch",
+    "total_stars": 1,
+    "avg_recency_score": 14
+  },
+  {
+    "repo_name": "vuelidate/vuelidate",
+    "total_stars": 1,
+    "avg_recency_score": 15
+  },
+  {
+    "repo_name": "EthWorks/useDApp",
+    "total_stars": 1,
+    "avg_recency_score": 0
+  },
+  {
+    "repo_name": "GhostRabbit/GameUtil",
+    "total_stars": 1,
+    "avg_recency_score": 10
+  },
+  {
+    "repo_name": "beamkenya/ex_pesa",
+    "total_stars": 1,
+    "avg_recency_score": 6
+  },
+  {
+    "repo_name": "nushell/nushell",
+    "total_stars": 1,
+    "avg_recency_score": 23
+  },
+  {
+    "repo_name": "ourjapanlife/findadoc-frontend",
+    "total_stars": 1,
+    "avg_recency_score": 9
+  },
+  {
+    "repo_name": "pmndrs/jotai",
+    "total_stars": 1,
+    "avg_recency_score": 10
+  },
+  {
+    "repo_name": "Mogakamo/LoveMeNowBook",
+    "total_stars": 1,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "octoherd/script-find-releases",
+    "total_stars": 1,
+    "avg_recency_score": 27
+  },
+  {
+    "repo_name": "dwaipayan05/open-sauced-goals",
+    "total_stars": 1,
+    "avg_recency_score": 6
+  },
+  {
+    "repo_name": "iwgx/downtown",
+    "total_stars": 1,
+    "avg_recency_score": 14
+  },
+  {
+    "repo_name": "timburgan/timburgan",
+    "total_stars": 1,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "fraol0912/bouncing_circles",
+    "total_stars": 1,
+    "avg_recency_score": 5
+  },
+  {
+    "repo_name": "Heptagram-Bot/Heptagram",
+    "total_stars": 1,
+    "avg_recency_score": 2
+  },
+  {
+    "repo_name": "thread-pond/scrum-lint",
+    "total_stars": 1,
+    "avg_recency_score": 20
+  },
+  {
+    "repo_name": "ezyostudio/ezyo-server-manager",
+    "total_stars": 1,
+    "avg_recency_score": 23
+  },
+  {
+    "repo_name": "enkimute/ganja.js",
+    "total_stars": 1,
+    "avg_recency_score": 14
+  },
+  {
+    "repo_name": "binkley/modern-java-practices",
+    "total_stars": 1,
+    "avg_recency_score": 27
+  },
+  {
+    "repo_name": "sindresorhus/hyper-snazzy",
+    "total_stars": 1,
+    "avg_recency_score": 24
+  },
+  {
+    "repo_name": "dom96/jester",
+    "total_stars": 1,
+    "avg_recency_score": 4
+  },
+  {
+    "repo_name": "openfaas/faas-netes",
+    "total_stars": 1,
+    "avg_recency_score": 11
+  },
+  {
+    "repo_name": "7Geese/eslint-config-7geese",
+    "total_stars": 1,
+    "avg_recency_score": 4
+  },
+  {
+    "repo_name": "antfu/vite-plugin-inspect",
+    "total_stars": 1,
+    "avg_recency_score": 29
+  },
+  {
+    "repo_name": "sapegin/mrm",
+    "total_stars": 1,
+    "avg_recency_score": 27
+  },
+  {
+    "repo_name": "BaseMax/MongoCSample",
+    "total_stars": 1,
+    "avg_recency_score": 19
+  },
+  {
+    "repo_name": "i18next/react-i18next",
+    "total_stars": 1,
+    "avg_recency_score": 21
+  },
+  {
+    "repo_name": "pazel-io/ionic-photo-flow",
+    "total_stars": 1,
+    "avg_recency_score": 16
+  },
+  {
+    "repo_name": "adiel/coypu",
+    "total_stars": 1,
+    "avg_recency_score": 7
+  },
+  {
+    "repo_name": "gabolera/3D-Helper",
+    "total_stars": 1,
+    "avg_recency_score": 10
+  }
+]
