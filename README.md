@@ -1,7 +1,5 @@
 # hot-sauce-api
-This is an API for suggesting popular open source repositories on Open Sauced. 
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is an API to find the hottest open source projects to contribute to. This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
