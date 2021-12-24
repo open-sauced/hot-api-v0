@@ -1,0 +1,7 @@
+[build]
+  publish = "public"
+
+[[redirects]]
+  from = "/"
+  to = "/hot.json"
+  status = 302
