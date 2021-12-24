@@ -4,7 +4,7 @@ import { supabase } from '../../lib/supabaseClient'
 async function run() {
   const { data, error } = await supabase
     .from('recommendations')
-    .select('repo_name, description, stars, issues, total_stars, avg_recency_score')
+    .select('repo_name, description, stars, issues, total_stars, avg_recency_score, contributors')
     .order('total_stars', { ascending: false })
 
   if (error || !data) {
