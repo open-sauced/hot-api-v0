@@ -19,6 +19,23 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
+## Deploy
+
+setup
+
+```
+mkdir .netlify
+touch .netlify/state.json
+echo  "{"siteId": "b91d1e67-702e-4dca-bc89-bdf418b10d63"}" >> .netlify/state.json
+```
+deploy
+```bash
+npm install
+netlify deploy
+
+// note the site id
+```
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
