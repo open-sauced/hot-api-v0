@@ -1,4 +1,4 @@
-# hot-sauce-api
+# api.opensauced.pizza
 This is an API to find the hottest open source projects to contribute to. This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
